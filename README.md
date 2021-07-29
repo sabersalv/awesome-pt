@@ -1,4 +1,4 @@
-# awesome-pt
+# Awesome PT
 
 Tools
 ======
