@@ -11,6 +11,7 @@ A collection of awsome PT clients, tools and scripts.
   - [BT Clients](#bt-clients)
   - [BT RSS](#bt-rss)
   - [BT IRC](#bt-irc)
+  - [BT Misc](#bt-misc)
   - [Cross Seed Helpers](#cross-seed-helpers)
   - [Add Torrent](#add-torrent)
   - [Auto Remove](#auto-remove)
@@ -46,7 +47,7 @@ A collection of awsome PT clients, tools and scripts.
 - [Reddit](https://www.reddit.com/r/trackers)
 - [PT风向旗](https://t.me/Ptfxq)
 - [PT官方公告](https://t.me/Ptggb)
-- [PTHub](https://t.me/PT_hub): New torrent notifications on Telegram
+- [PTHub](https://t.me/PT_hub)
 
 ## Sites
 
@@ -64,7 +65,6 @@ A collection of awsome PT clients, tools and scripts.
 - [PTP Bonus Point Optimization](https://www.dropbox.com/s/qhp2g8xestqkn2c/Bonus%20Point%20Optimization.user.js?dl=1)
 - [BKS Upload Game Helper](https://greasyfork.org/en/scripts/406869-brokenstones-upload-game-helper)
 - [WhuBBCode+](https://greasyfork.org/en/scripts/380518-whutbbcode): Add BBCode toolbar
-- [豆瓣资源下载大师](https://greasyfork.org/en/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD)
 
 ## BT
 
@@ -91,6 +91,10 @@ A collection of awsome PT clients, tools and scripts.
 
 - [Autodl Irssi](https://autodl-community.github.io/autodl-irssi/): Auto Download
 - [Irssi](https://github.com/irssi/irssi): IRC Client, TUI
+
+### BT Misc
+
+- [豆瓣资源下载大师](https://greasyfork.org/en/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD)
 
 ### Cross Seed Helpers
 
