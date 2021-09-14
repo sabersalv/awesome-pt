@@ -222,11 +222,12 @@ A collection of awsome PT clients, tools and scripts.
 - [PT Autoseed](https://github.com/Rhilip/Pt-Autoseed)
 - [SJTU Autoseed](https://github.com/Rhilip/SJTU-Autoseed)
 - [Rachpt AutoSeed](https://github.com/rachpt/AutoSeed)
+- [Alexandria](https://github.com/pthcode/alexandria): Ebook
+- [TJUPT Anime Autoseed](https://github.com/tongyifan/TJUPT-Anime-Autoseed): TJUP, Anime
 - [GGN2PTer](https://github.com/scatking/ggn2pter): GGN -> PTer
 - [JPS2SM](https://git.sugoimusic.me/Sugoimusic/jps2sm): JPS -> SM
-- [PTP Uploader](https://github.com/bobbintb/PtpUploader)
-- [AB Fetcher](https://github.com/anniemaybytes/fetcher)
-- [alexandria](https://github.com/pthcode/alexandria): ebook
+- [PTP Uploader](https://github.com/bobbintb/PtpUploader): PTP
+- [AB Fetcher](https://github.com/anniemaybytes/fetcher): AB
 
 ### Upload Helpers
 
