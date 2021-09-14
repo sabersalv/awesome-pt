@@ -57,7 +57,7 @@ A collection of awsome PT clients, tools and scripts.
 - [Tracker Status](https://trackerstatus.info)
 - [OpenTrakcers](https://opentrackers.org/tracker-list)
 
-## Site Enhancement
+### Site Enhancement
 
 - [Douban Info](https://github.com/techmovie/DouBan-Info-for-PT): Add douban information
 - [PTP Show Group Name](https://greasyfork.org/en/scripts/387484-ptp-show-group-name): Add release group name for PTP
@@ -226,7 +226,7 @@ A collection of awsome PT clients, tools and scripts.
 - [PT Gen](https://github.com/Rhilip/pt-gen-cfworker): Description Generator.
 - [Image Host Helper](https://greasyfork.org/en/scripts/401743-image-host-helper)
 
-### Misc
+## Misc
 
 - [Organizr](https://github.com/causefx/Organizr): Homelab Services Organizer
 
