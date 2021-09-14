@@ -1,42 +1,246 @@
 # Awesome PT
 
-Tools
-======
+A collection of awsome PT clients, tools and scripts.
 
-### General Tools
+## Table of Contents
 
-- [PyroScope](http://code.google.com/p/pyroscope): a collection of tools for the BitTorrent protocol and rtorrent.
-- [saber](https://github.com/sabersalv/saber): a complete solution for PT users.
+- [Sites](#sites)
+- [BT](#bt)
+  - [BT Clients](#bt-clients)
+  - [BT RSS](#bt-rss)
+  - [BT IRC](#bt-irc)
+  - [Cross Seed Helpers](#cross-seed-helpers)
+  - [Add Torrent](#add-torrent)
+  - [Auto Remove](#auto-remove)
+- [Automation](#automation)
+- [Movie & TV](#movie-tv)
+  - [Video Automation](#video-automation)
+  - [Video Server](#video-server)
+  - [Video Player](#video-player)
+  - [Video Subtitle](#video-subtitle)
+  - [Video Transcode](#video-transcode)
+- [Music](#music)
+  - [Music Automation](#music-automation)
+  - [Music Server](#music-server)
+  - [Music Transcode](#music-transcode)
+- [EBook](#ebook)
+  - [EBook Automation](#ebook-automation)
+  - [EBook Manager](#ebook-manager)
+- [Upload Helpers](#upload-helpers)
+- [Seedbox Helpers](#seedbox-helpers)
+- [Misc](#misc)
+- [CLI Tools](#cli-tools)
+- [Development](#development)
+  - [Tracker Codebase](#tracker-codebase)
+  - [API](#api)
+  - [Libraries](#libraries)
+    - [JavaScript](#javascript)
 
-### Auto Grabs Torrents
+## Sites
 
-- [autodl-irssi](http://sourceforge.net/projects/autodl-irssi/): monitors torrent IRC announce channels, downloads torrent files based on a user-defined filter.
-- [pyWA](http://whatscripts.com/?cat=4): automatically grabbing .torrents based on filter criteria.
-- [FlexGet](http://flexget.com/): a multipurpose automation tool.
+- [Reddit](https://www.reddit.com/r/trackers): Coummunity
+- [Gentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers#What_are_the_best_private_trackers.3F)
+- [Private Tracker List](https://hdvinnie.github.io/Private-Trackers-Spreadsheet)
+- [TorrentInvites](https://torrentinvites.org/trackerlist.php)
+- [PT Analytics](https://api.rhilip.info/ptanalytics.html)
+- [Tracker Status](https://trackerstatus.info)
+- [OpenTrakcers](https://opentrackers.org/tracker-list)
 
-### Add Torrent 
+## BT
 
-- [remote-torrent-adder](http://code.google.com/p/remote-torrent-adder): chrome extension that adds torrents from the browser to bittorrent client web interfaces. (Chrome only)
-- [pyWhatauto link creator](http://userscripts.org/scripts/show/85457): add download links to various sites. (pyWA only)
+### BT Clients
 
-### Tansfer Helper
+- [Flood](https://github.com/jesec/flood): Web, rTorrent/qBittorrent/Transmission/Deluge, RSS
+- [Rutorrent](https://github.com/Novik/ruTorrent): Web, rTorrent, RSS
+- [rTorrent](https://github.com/jesec/rtorrent): Daemon/TUI, C++
+- [Transmission](https://github.com/transmission/transmission): Daemon/GUI/Web, C++
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent): Daemon/GUI/Web, C++
+- [Deluge](https://github.com/deluge-torrent/deluge): Daemon/GUI/Web, Python
+- PT管理宝: 微信小程序, Transmission/qBittorrent
 
-- [saber-download](https://github.com/sabersalv/saber): automatically/manually fetch files from seedbox to home laptop.
-- [Upload Complete](https://bitbucket.org/sanguinepenguinx/upload-complete/wiki/Home): Automatically Transfer Downloads from your Seedbox.
-- [FTPGrab](http://whatscripts.com/?cat=10): automatically sync files from a seedbox to your home computer.
+### BT RSS
 
-### Upload Helper
+- [Flexget](https://github.com/Flexget/Flexget)
+- [Show RSS](https://showrss.info)
+- [T RSS](https://github.com/capric98/t-rss)
+- [Fish RSS](https://github.com/qfishpear/fishrss_simple)
+- [Flexget NexusPHP](https://github.com/Juszoe/flexget-nexusphp)
+- [Promotion](https://github.com/Alvinnfly/promotion)
 
-- [saber-upload](http://github.com/sabersalv/saber): upload a torrent file from command line.
-- [PtpUploader](https://code.google.com/p/ptpuploader/): automatically upload files from some sources. (PTP only)
-- [BTNAutoUp](https://github.com/Mochaka/BTNAutoUp/): An Unrar And AutoUpload Script  (BTN only)
-- [Official BTN Autobot](): automatically grabs scene releases. (BTN only. build into the site)
+### BT IRC
+
+- [Autodl Irssi](https://autodl-community.github.io/autodl-irssi/): Auto Download
+- [Irssi](https://github.com/irssi/irssi): IRC Client, TUI
+
+### Cross Seed Helpers
+
+- [IYUU Plus](https://github.com/ledccn/IYUUPlus): Web, supports Transmission/qBittorrent
+- [IYUU GUI](https://github.com/sabersalv/IYUU-GUI): GUI, supports Flood/Deluge/Transmission/qBittorrent
+- [IYUU Auto Reseed](https://gitee.com/ledc/IYUUAutoReseed): CLI
+- [Tongyifan Reseed](https://github.com/tongyifan/Reseed-backend)
+- [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus)
+
+### Add Torrent
+
+- [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus)
+- [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder)
+- [Electorrent](https://github.com/tympanix/Electorrent)
+- [Torrent Control](https://github.com/Mika-/torrent-control)
+
+### Auto Remove
+
+- [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents): qBittorrent/Transmission/μTorrent
+- [omaralvarez/deluge-autoremoveplus](https://github.com/omaralvarez/deluge-autoremoveplus): Deluge
+
+## Automation
+
+- [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus): Aggregate Indexer, Account Stats, Add Torrent, Bulk Download, Cross Seed
+- [Jackett](https://github.com/Jackett/Jackett): Aggregate Indexer
+- [Prowlarr](https://github.com/Prowlarr/Prowlarr): Aggregate Indexer
+
+## Movie & TV
+
+### Video Automation
+
+- [Radarr](https://github.com/Radarr/Radarr): For Movie, like Sonarr
+- [Sonarr](https://github.com/Sonarr/Sonarr): For TV, Auto Download, Rename, Delete, Trump
+- [Nefarious](https://github.com/lardbit/nefarious): For Movie & TV, like Sonarr
+- [Bobarr](https://github.com/iam4x/bobarr): For Movie & TV, like Sonarr
+- [Medusa](https://pymedusa.com): For TV
+- [tinyMediaManager](https://www.tinymediamanager.org/): For Movie & TV, Metadata
+- [Filebot](https://www.filebot.net): For Movie & TV, Rename
+- [SickRage](https://www.sickrage.ca): For TV
+- [Couchpota](https://couchpota.to): For Movie
+- [DuckieTV](https://github.com/SchizoDuckie/DuckieTV): For TV
+
+### Video Server
+
+- [Jellyfin](https://github.com/jellyfin/jellyfin)
+- [Plex](https://www.plex.tv)
+- [Emby](https://emby.media)
+- [Synology Video Station](https://www.synology.com/en-global/dsm/feature/video_station)
+
+### Video Player
+
+- [IINA](https://github.com/iina/iina): macOS
+- [VLC](https://www.videolan.org/): macOS, Linux, windows
+- [PotPlayer](https://potplayer.daum.net): Windows
+- [MPC BE](https://sourceforge.net/projects/mpcbe): Windows
+- [Infuse](https://firecore.com/infuse): iOS, macOS
+- [MX Player](https://www.mxplayer.in/download-apps): iOS, Android
+- [MrMc](https://github.com/MrMC/mrmc): iOS
+- [nPlayer](https://nplayer.com/): Android
+- [Kodi](https://github.com/xbmc)
+
+### Video Subtitle
+
+- [Bazarr](https://github.com/morpheus65535/bazarr): Automation, Like Sonarr
+- [OpenSubtitles](https://www.opensubtitles.org)
+- [SubHD](https://subhd.tv)
+- [字幕库](https://zmk.pw)
+- [伪射手网](https://assrt.net)
+- [A4K](https://www.a4k.net)
+
+### Video Transcode
+
+- [HandBrake](https://github.com/HandBrake/HandBrake): GUI
+- [Tdarr](https://github.com/HaveAGitGat/Tdarr)
+
+## Music
+
+### Music Automation
+
+- [Lidarr](https://github.com/lidarr/lidarr): like Sonarr
+- [Betanin](https://github.com/sentriz/betanin)
+- [Beets](https://github.com/beetbox/beets): Manager, Metadata
+- [Headphones](https://github.com/rembo10/headphones): Auto Download
+
+### Music Server
+
+- [Koel](https://github.com/koel/koel)
+- [Polaris](https://github.com/agersant/polaris)
+- [Groove Basin](https://github.com/andrewrk/groovebasin)
+- [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced)
+- [mStream](https://github.com/IrosTheBeggar/mStream)
+- [Black Candy](https://github.com/aidewoode/black_candy)
+- [Music Player Deamon](https://www.musicpd.org)
+- [Compactd](https://github.com/compactd/compactd)
 
 ### Music Transcode
 
-- [whatmp3](https://github.com/RecursiveForest/whatmp3): Create mp3 torrents from FLACs 
+- [whatmp3](https://github.com/RecursiveForest/whatmp3)
 
-### Others
+## EBook
 
-- [saber-clean](https://github.com/sabersalv/saber): remove files which are not seeded in rtorrent.
-- [rtchecker](https://github.com/gartentisch/rtchecker): Automatic-unneeded-file-remover for rtorrent, utorrent.
+### EBook Automation
+
+- [Readarr](https://github.com/readarr/readarr): like Sonarr
+- [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian)
+- [Mylar3](https://github.com/mylar3/mylar3): For Comic Book, Auto Download
+
+### EBook Manager
+
+- [Calibre](https://github.com/kovidgoyal/calibre)
+
+### Upload Helpers
+
+- [Easy Upload](https://github.com/techmovie/easy-upload): Semi-Auto, Cross site transfer
+- [Auto Feed](https://github.com/tomorrow505/auto_feed_js): Semi-Auto, Cross site transfer
+- [PT Autoseed](https://github.com/Rhilip/Pt-Autoseed): Auto
+- [SJTU Autoseed](https://github.com/Rhilip/SJTU-Autoseed): Auto
+- [Rachpt AutoSeed](https://github.com/rachpt/AutoSeed): Auto
+- [PT种子搬运助手](https://greasyfork.org/zh-CN/scripts/402942-pt%E7%A7%8D%E5%AD%90%E6%90%AC%E8%BF%90%E5%8A%A9%E6%89%8B): Cross site transfer
+- [GGN2PTer](https://github.com/scatking/ggn2pter): GGN -> PTer
+- [JPS2SM](https://git.sugoimusic.me/Sugoimusic/jps2sm): JPS -> SM
+- [PTP Uploader](https://github.com/bobbintb/PtpUploader): A upload bot for PTP
+- [AB Fetcher](https://github.com/anniemaybytes/fetcher): Auto, A upload bot for AB
+- [PT Gen](https://github.com/Rhilip/pt-gen-cfworker): Description Generator.
+
+### Seedbox Helpers
+
+*Scripts for seedbox*
+
+- [QuickBox Lite](https://github.com/amefs/quickbox-lite)
+- [Swizzin](https://github.com/swizzin/swizzin)
+- [Aniverse/inexistence](https://github.com/Aniverse/inexistence)
+
+### Misc
+
+- [Douban Info](https://github.com/techmovie/DouBan-Info-for-PT): Add douban information
+- [PTHub](https://t.me/PT_hub): New torrent notifications on Telegram
+- [PT Sigin](https://github.com/lhllhx/PT_signin)
+- [Organizr](https://github.com/causefx/Organizr): Homelab Services Organizer
+
+### CLI Tools
+
+- [transmission-cli](https://man.archlinux.org/man/transmission-create.1.en)
+- [mediainfo](https://github.com/MediaArea/MediaInfo)
+- [bdinfo](https://github.com/UniqProject/BDInfo)
+- [mktorrent](https://github.com/pobrn/mktorrent): create torrent file on CLI
+- [PyroCore](https://github.com/pyroscope/pyrocore)
+- [torf-cli](https://github.com/rndusr/torf-cli)
+- [anacrolix/torrent](https://github.com/anacrolix/torrent)
+
+# Development
+
+- [Torrent file specification](http://www.bittorrent.org/beps/bep_0003.html)
+
+## Tracker Codebase
+
+- [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms)
+
+## API
+
+- [TMDB API](https://developers.themoviedb.org)
+- [OMDB API](http://www.omdbapi.com)
+- [IMDB API](https://developer.imdb.com)
+- [Douban API](https://github.com/zce/douban-api-docs/tree/f0847616a75e1dca5ee3e123166c5f2d9ee5acab)
+
+## Libraries
+
+### Javascript
+
+- [parse-torrent](https://github.com/webtorrent/parse-torrent)
+- [magnet-uri](https://github.com/webtorrent/magnet-uri)
+- [create-torrent](https://github.com/webtorrent/create-torrent)
+- [parse-torrent-title](https://github.com/clement-escolano/parse-torrent-title)
