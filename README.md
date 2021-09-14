@@ -4,7 +4,9 @@ A collection of awsome PT clients, tools and scripts.
 
 ## Table of Contents
 
+- [Community](#community)
 - [Sites](#sites)
+  - [Site Enhancement](#site-enhancement)
 - [BT](#bt)
   - [BT Clients](#bt-clients)
   - [BT RSS](#bt-rss)
@@ -13,7 +15,7 @@ A collection of awsome PT clients, tools and scripts.
   - [Add Torrent](#add-torrent)
   - [Auto Remove](#auto-remove)
 - [Automation](#automation)
-- [Movie & TV](#movie-tv)
+- [Movie & TV](#movie--tv)
   - [Video Automation](#video-automation)
   - [Video Server](#video-server)
   - [Video Player](#video-player)
@@ -26,7 +28,10 @@ A collection of awsome PT clients, tools and scripts.
 - [EBook](#ebook)
   - [EBook Automation](#ebook-automation)
   - [EBook Manager](#ebook-manager)
-- [Upload Helpers](#upload-helpers)
+- [Upload](#upload)
+  - [Upload Semi-Auto](#upload-semi-auto)
+  - [Upload Bot](#upload-bot)
+  - [Upload Helpers](#upload-helpers)
 - [Seedbox Helpers](#seedbox-helpers)
 - [Misc](#misc)
 - [CLI Tools](#cli-tools)
@@ -36,15 +41,30 @@ A collection of awsome PT clients, tools and scripts.
   - [Libraries](#libraries)
     - [JavaScript](#javascript)
 
+## Community
+
+- [Reddit](https://www.reddit.com/r/trackers)
+- [PT风向旗](https://t.me/Ptfxq)
+- [PT官方公告](https://t.me/Ptggb)
+- [PTHub](https://t.me/PT_hub): New torrent notifications on Telegram
+
 ## Sites
 
-- [Reddit](https://www.reddit.com/r/trackers): Coummunity
 - [Gentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers#What_are_the_best_private_trackers.3F)
 - [Private Tracker List](https://hdvinnie.github.io/Private-Trackers-Spreadsheet)
 - [TorrentInvites](https://torrentinvites.org/trackerlist.php)
 - [PT Analytics](https://api.rhilip.info/ptanalytics.html)
 - [Tracker Status](https://trackerstatus.info)
 - [OpenTrakcers](https://opentrackers.org/tracker-list)
+
+## Site Enhancement
+
+- [Douban Info](https://github.com/techmovie/DouBan-Info-for-PT): Add douban information
+- [PTP Show Group Name](https://greasyfork.org/en/scripts/387484-ptp-show-group-name): Add release group name for PTP
+- [PTP Bonus Point Optimization](https://www.dropbox.com/s/qhp2g8xestqkn2c/Bonus%20Point%20Optimization.user.js?dl=1)
+- [BKS Upload Game Helper](https://greasyfork.org/en/scripts/406869-brokenstones-upload-game-helper)
+- [WhuBBCode+](https://greasyfork.org/en/scripts/380518-whutbbcode): Add BBCode toolbar
+- [豆瓣资源下载大师](https://greasyfork.org/en/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD)
 
 ## BT
 
@@ -97,6 +117,7 @@ A collection of awsome PT clients, tools and scripts.
 - [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus): Aggregate Indexer, Account Stats, Add Torrent, Bulk Download, Cross Seed
 - [Jackett](https://github.com/Jackett/Jackett): Aggregate Indexer
 - [Prowlarr](https://github.com/Prowlarr/Prowlarr): Aggregate Indexer
+- [PT Sigin](https://github.com/lhllhx/PT_signin)
 
 ## Movie & TV
 
@@ -182,34 +203,40 @@ A collection of awsome PT clients, tools and scripts.
 
 - [Calibre](https://github.com/kovidgoyal/calibre)
 
-### Upload Helpers
+## Upload
 
-- [Easy Upload](https://github.com/techmovie/easy-upload): Semi-Auto, Cross site transfer
-- [Auto Feed](https://github.com/tomorrow505/auto_feed_js): Semi-Auto, Cross site transfer
-- [PT Autoseed](https://github.com/Rhilip/Pt-Autoseed): Auto
-- [SJTU Autoseed](https://github.com/Rhilip/SJTU-Autoseed): Auto
-- [Rachpt AutoSeed](https://github.com/rachpt/AutoSeed): Auto
-- [PT种子搬运助手](https://greasyfork.org/zh-CN/scripts/402942-pt%E7%A7%8D%E5%AD%90%E6%90%AC%E8%BF%90%E5%8A%A9%E6%89%8B): Cross site transfer
+### Upload Semi-Auto
+
+- [Easy Upload](https://github.com/techmovie/easy-upload)
+- [Auto Feed](https://github.com/tomorrow505/auto_feed_js)
+- [PT种子搬运助手](https://greasyfork.org/zh-CN/scripts/402942-pt%E7%A7%8D%E5%AD%90%E6%90%AC%E8%BF%90%E5%8A%A9%E6%89%8B)
+
+### Upload Bot
+
+- [PT Autoseed](https://github.com/Rhilip/Pt-Autoseed)
+- [SJTU Autoseed](https://github.com/Rhilip/SJTU-Autoseed)
+- [Rachpt AutoSeed](https://github.com/rachpt/AutoSeed)
 - [GGN2PTer](https://github.com/scatking/ggn2pter): GGN -> PTer
 - [JPS2SM](https://git.sugoimusic.me/Sugoimusic/jps2sm): JPS -> SM
-- [PTP Uploader](https://github.com/bobbintb/PtpUploader): A upload bot for PTP
-- [AB Fetcher](https://github.com/anniemaybytes/fetcher): Auto, A upload bot for AB
+- [PTP Uploader](https://github.com/bobbintb/PtpUploader)
+- [AB Fetcher](https://github.com/anniemaybytes/fetcher)
+
+### Upload Helpers
+
 - [PT Gen](https://github.com/Rhilip/pt-gen-cfworker): Description Generator.
+- [Image Host Helper](https://greasyfork.org/en/scripts/401743-image-host-helper)
+
+### Misc
+
+- [Organizr](https://github.com/causefx/Organizr): Homelab Services Organizer
 
 ### Seedbox Helpers
 
-*Scripts for seedbox*
+> Scripts for seedbox
 
 - [QuickBox Lite](https://github.com/amefs/quickbox-lite)
 - [Swizzin](https://github.com/swizzin/swizzin)
 - [Aniverse/inexistence](https://github.com/Aniverse/inexistence)
-
-### Misc
-
-- [Douban Info](https://github.com/techmovie/DouBan-Info-for-PT): Add douban information
-- [PTHub](https://t.me/PT_hub): New torrent notifications on Telegram
-- [PT Sigin](https://github.com/lhllhx/PT_signin)
-- [Organizr](https://github.com/causefx/Organizr): Homelab Services Organizer
 
 ### CLI Tools
 
