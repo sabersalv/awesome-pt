@@ -226,6 +226,7 @@ A collection of awsome PT clients, tools and scripts.
 - [JPS2SM](https://git.sugoimusic.me/Sugoimusic/jps2sm): JPS -> SM
 - [PTP Uploader](https://github.com/bobbintb/PtpUploader)
 - [AB Fetcher](https://github.com/anniemaybytes/fetcher)
+- [alexandria](https://github.com/pthcode/alexandria): ebook
 
 ### Upload Helpers
 
