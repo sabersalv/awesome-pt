@@ -65,6 +65,7 @@ A collection of awsome PT clients, tools and scripts.
 - [PTP Bonus Point Optimization](https://www.dropbox.com/s/qhp2g8xestqkn2c/Bonus%20Point%20Optimization.user.js?dl=1)
 - [BKS Upload Game Helper](https://greasyfork.org/en/scripts/406869-brokenstones-upload-game-helper)
 - [WhuBBCode+](https://greasyfork.org/en/scripts/380518-whutbbcode): Add BBCode toolbar
+- [EasyCompare](https://github.com/N3xusHD/EasyCompare)
 
 ## BT
 
@@ -77,6 +78,7 @@ A collection of awsome PT clients, tools and scripts.
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent): Daemon/GUI/Web, C++
 - [Deluge](https://github.com/deluge-torrent/deluge): Daemon/GUI/Web, Python
 - PT管理宝: 微信小程序, Transmission/qBittorrent
+- [随身PT](https://github.com/techmovie/trans-client): 微信小程序, Rutorrent/qBittorrent/Transmission/Deluge/uTorrent/DownloadStation
 
 ### BT RSS
 
