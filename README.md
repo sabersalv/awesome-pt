@@ -19,6 +19,7 @@ A collection of awsome PT clients, tools and scripts.
 - [Movie & TV](#movie--tv)
   - [Video Automation](#video-automation)
   - [Video Server](#video-server)
+  - [Video Streaming](#video-streaming)
   - [Video Player](#video-player)
   - [Video Subtitle](#video-subtitle)
   - [Video Transcode](#video-transcode)
@@ -146,6 +147,10 @@ A collection of awsome PT clients, tools and scripts.
 - [Plex](https://www.plex.tv)
 - [Emby](https://emby.media)
 - [Synology Video Station](https://www.synology.com/en-global/dsm/feature/video_station)
+
+### Video Streaming
+
+- [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop)
 
 ### Video Player
 
