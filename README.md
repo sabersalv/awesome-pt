@@ -128,7 +128,7 @@ PRs are welcome!
 - [Jackett](https://github.com/Jackett/Jackett): Aggregate Indexer
 - [Prowlarr](https://github.com/Prowlarr/Prowlarr): Aggregate Indexer
 - [Cardigann](https://github.com/cardigann/cardigann): Aggregate Indexer
-- [PT Sigin](https://github.com/lhllhx/PT_signin)
+- [PT Sign-in](https://github.com/lhllhx/PT_signin)
 
 ## Movie & TV
 
