@@ -56,7 +56,6 @@ PRs are welcome!
 
 - [Gentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers#What_are_the_best_private_trackers.3F)
 - [Private Tracker List](https://hdvinnie.github.io/Private-Trackers-Spreadsheet)
-- [TorrentInvites](https://torrentinvites.org/trackerlist.php)
 - [PT Analytics](https://api.rhilip.info/ptanalytics.html)
 - [Tracker Status](https://trackerstatus.info)
 - [OpenTrackers](https://opentrackers.org/tracker-list)
