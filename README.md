@@ -72,10 +72,13 @@ PRs are welcome!
 
 ## BT
 
-### BT Clients
+### Torrent Frontends
 
 - [Flood](https://github.com/jesec/flood): Web, rTorrent/qBittorrent/Transmission/Deluge, RSS
-- [Rutorrent](https://github.com/Novik/ruTorrent): Web, rTorrent, RSS
+- [Rutorrent](https://github.com/Novik/ruTorrent): Web, rTorrent only, RSS
+
+### BT Clients
+
 - [rTorrent](https://github.com/jesec/rtorrent): Daemon/TUI, C++
 - [Transmission](https://github.com/transmission/transmission): Daemon/GUI/Web, C++
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent): Daemon/GUI/Web, C++
