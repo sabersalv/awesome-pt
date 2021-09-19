@@ -59,7 +59,7 @@ PRs are welcome!
 - [TorrentInvites](https://torrentinvites.org/trackerlist.php)
 - [PT Analytics](https://api.rhilip.info/ptanalytics.html)
 - [Tracker Status](https://trackerstatus.info)
-- [OpenTrakcers](https://opentrackers.org/tracker-list)
+- [OpenTrackers](https://opentrackers.org/tracker-list)
 
 ### Site Enhancement
 
