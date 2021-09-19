@@ -243,6 +243,7 @@ PRs are welcome!
 
 - [PT Gen](https://github.com/Rhilip/pt-gen-cfworker): Description Generator.
 - [Image Host Helper](https://greasyfork.org/en/scripts/401743-image-host-helper)
+- [RED/OPS Upload Assistant](https://greasyfork.org/en/scripts/389583-red-ops-upload-assistant)
 
 ## Misc
 
