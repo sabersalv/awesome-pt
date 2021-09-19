@@ -1,6 +1,6 @@
 # Awesome PT
 
-> A collection of awsome PT clients, tools and scripts.
+> A collection of awesome PT clients, tools and scripts.
 
 PRs are welcome!
 
