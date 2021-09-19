@@ -251,6 +251,7 @@ PRs are welcome!
 
 > Scripts for seedbox
 
+- [rtinst](https://github.com/arakasi72/rtinst)
 - [QuickBox Lite](https://github.com/amefs/quickbox-lite)
 - [Swizzin](https://github.com/swizzin/swizzin)
 - [Aniverse/inexistence](https://github.com/Aniverse/inexistence)
