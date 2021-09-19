@@ -245,13 +245,7 @@ PRs are welcome!
 - [PT Gen](https://github.com/Rhilip/pt-gen-cfworker): Description Generator.
 - [Image Host Helper](https://greasyfork.org/en/scripts/401743-image-host-helper)
 
-## Misc
-
-- [Organizr](https://github.com/causefx/Organizr): Homelab Services Organizer
-
-### Seedbox Helpers
-
-> Scripts for seedbox
+### Scripts for Seedbox
 
 - [rtinst](https://github.com/arakasi72/rtinst)
 - [QuickBox Lite](https://github.com/amefs/quickbox-lite)
