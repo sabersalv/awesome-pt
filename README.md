@@ -142,7 +142,7 @@ PRs are welcome!
 - [tinyMediaManager](https://www.tinymediamanager.org/): For Movie & TV, Metadata
 - [Filebot](https://www.filebot.net): For Movie & TV, Rename
 - [SickRage](https://www.sickrage.ca): For TV
-- [Couchpota](https://couchpota.to): For Movie
+- [Couchpotato](https://couchpota.to): For Movie
 - [DuckieTV](https://github.com/SchizoDuckie/DuckieTV): For TV
 
 ### Video Server
