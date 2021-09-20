@@ -7,7 +7,7 @@
 PRs are very welcome!
 
 Note
-- ![chinese-icon]: Provide Chinese language only
+- ![chinese-icon]: Chinese language only
 
 ## Table of Contents
 
