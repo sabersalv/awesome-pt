@@ -7,6 +7,7 @@
 PRs are very welcome!
 
 Note
+
 - ![chinese-icon]: Chinese language only
 
 ## Table of Contents
@@ -78,8 +79,13 @@ Note
 
 ### Torrent Frontends
 
-- [Flood](https://github.com/jesec/flood): Web, rTorrent/qBittorrent/Transmission/Deluge, RSS
-- [Rutorrent](https://github.com/Novik/ruTorrent): Web, rTorrent only, RSS
+| Name | Platform | Supported | Features |
+|------|----------|-----------|----------|
+| [Flood](https://github.com/jesec/flood) |  Web | rTorrent/qBittorrent/Transmission/Deluge | RSS |
+| [Rutorrent](https://github.com/Novik/ruTorrent) |  Web | rTorrent | RSS |
+| [Transdroid](https://github.com/erickok/transdroid) | Android | Transmission/rTorrent/Deluge/qBittorrent | |
+| PT管理宝 ![chinese-icon] | 微信小程序 | Transmission/qBittorrent | | |
+| [随身PT](https://github.com/techmovie/trans-client) ![chinese-icon] | 微信小程序 | Rutorrent/qBittorrent/Transmission/Deluge/uTorrent/DownloadStation | |
 
 ### BT Clients
 
@@ -87,8 +93,6 @@ Note
 - [Transmission](https://github.com/transmission/transmission): Daemon/GUI/Web, C++
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent): Daemon/GUI/Web, C++
 - [Deluge](https://github.com/deluge-torrent/deluge): Daemon/GUI/Web, Python
-- PT管理宝: ![chinese-icon], 微信小程序, Transmission/qBittorrent
-- [随身PT](https://github.com/techmovie/trans-client): ![chinese-icon], 微信小程序, Rutorrent/qBittorrent/Transmission/Deluge/uTorrent/DownloadStation
 
 ### BT RSS
 
@@ -125,7 +129,6 @@ Note
 - [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder)
 - [Electorrent](https://github.com/tympanix/Electorrent)
 - [Torrent Control](https://github.com/Mika-/torrent-control)
-- [Transdrone/Transdroid](https://github.com/erickok/transdroid)
 
 ### Auto Remove
 
