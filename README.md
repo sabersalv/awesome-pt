@@ -17,6 +17,7 @@ PRs are welcome!
   - [Cross Seed Helpers](#cross-seed-helpers)
   - [Add Torrent](#add-torrent)
   - [Auto Remove](#auto-remove)
+  - [qBittorrent Tools](#qbittorrent-tools)
 - [Automation](#automation)
 - [Movie & TV](#movie--tv)
   - [Video Automation](#video-automation)
@@ -110,7 +111,8 @@ PRs are welcome!
 - [IYUU Auto Reseed](https://gitee.com/ledc/IYUUAutoReseed): CLI
 - [Tongyifan Reseed](https://github.com/tongyifan/Reseed-backend)
 - [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus)
-- [Cross-Seed-AutoDL](https://github.com/BC44/Cross-Seed-AutoDL)
+- [Cross Seed AutoDL](https://github.com/BC44/Cross-Seed-AutoDL): CLI
+- [mmgoodnow/cross-seed](https://github.com/mmgoodnow/cross-seed): CLI
 
 ### Add Torrent
 
@@ -123,6 +125,13 @@ PRs are welcome!
 
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents): qBittorrent/Transmission/μTorrent
 - [omaralvarez/deluge-autoremoveplus](https://github.com/omaralvarez/deluge-autoremoveplus): Deluge
+
+### qBittorrent Tools
+
+- [qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli): CLI
+- [qbittools](https://gitlab.com/AlexKM/qbittools): CLI
+- [qBittorrent Tracker Hound](https://github.com/JakeWharton/qbt-tracker-hound): CLI
+- [qBt Migrate](https://github.com/jslay88/qbt_migrate): CLI
 
 ## Automation
 
