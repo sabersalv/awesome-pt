@@ -125,6 +125,7 @@ Note
 - [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder)
 - [Electorrent](https://github.com/tympanix/Electorrent)
 - [Torrent Control](https://github.com/Mika-/torrent-control)
+- [Transdrone/Transdroid](https://github.com/erickok/transdroid)
 
 ### Auto Remove
 
