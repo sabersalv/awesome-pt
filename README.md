@@ -1,6 +1,6 @@
 # Awesome PT
 
-> A collection of awsome PT clients, tools and scripts.
+> A collection of awesome PT clients, tools and scripts.
 
 PRs are welcome!
 
@@ -56,10 +56,9 @@ PRs are welcome!
 
 - [Gentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers#What_are_the_best_private_trackers.3F)
 - [Private Tracker List](https://hdvinnie.github.io/Private-Trackers-Spreadsheet)
-- [TorrentInvites](https://torrentinvites.org/trackerlist.php)
 - [PT Analytics](https://api.rhilip.info/ptanalytics.html)
 - [Tracker Status](https://trackerstatus.info)
-- [OpenTrakcers](https://opentrackers.org/tracker-list)
+- [OpenTrackers](https://opentrackers.org/tracker-list)
 
 ### Site Enhancement
 
@@ -72,10 +71,13 @@ PRs are welcome!
 
 ## BT
 
-### BT Clients
+### Torrent Frontends
 
 - [Flood](https://github.com/jesec/flood): Web, rTorrent/qBittorrent/Transmission/Deluge, RSS
-- [Rutorrent](https://github.com/Novik/ruTorrent): Web, rTorrent, RSS
+- [Rutorrent](https://github.com/Novik/ruTorrent): Web, rTorrent only, RSS
+
+### BT Clients
+
 - [rTorrent](https://github.com/jesec/rtorrent): Daemon/TUI, C++
 - [Transmission](https://github.com/transmission/transmission): Daemon/GUI/Web, C++
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent): Daemon/GUI/Web, C++
@@ -128,7 +130,7 @@ PRs are welcome!
 - [Jackett](https://github.com/Jackett/Jackett): Aggregate Indexer
 - [Prowlarr](https://github.com/Prowlarr/Prowlarr): Aggregate Indexer
 - [Cardigann](https://github.com/cardigann/cardigann): Aggregate Indexer
-- [PT Sigin](https://github.com/lhllhx/PT_signin)
+- [PT Sign-in](https://github.com/lhllhx/PT_signin)
 
 ## Movie & TV
 
@@ -142,7 +144,7 @@ PRs are welcome!
 - [tinyMediaManager](https://www.tinymediamanager.org/): For Movie & TV, Metadata
 - [Filebot](https://www.filebot.net): For Movie & TV, Rename
 - [SickRage](https://www.sickrage.ca): For TV
-- [Couchpota](https://couchpota.to): For Movie
+- [Couchpotato](https://couchpota.to): For Movie
 - [DuckieTV](https://github.com/SchizoDuckie/DuckieTV): For TV
 
 ### Video Server
@@ -243,14 +245,9 @@ PRs are welcome!
 - [PT Gen](https://github.com/Rhilip/pt-gen-cfworker): Description Generator.
 - [Image Host Helper](https://greasyfork.org/en/scripts/401743-image-host-helper)
 
-## Misc
+### Scripts for Seedbox
 
-- [Organizr](https://github.com/causefx/Organizr): Homelab Services Organizer
-
-### Seedbox Helpers
-
-> Scripts for seedbox
-
+- [rtinst](https://github.com/arakasi72/rtinst)
 - [QuickBox Lite](https://github.com/amefs/quickbox-lite)
 - [Swizzin](https://github.com/swizzin/swizzin)
 - [Aniverse/inexistence](https://github.com/Aniverse/inexistence)
