@@ -111,6 +111,7 @@ PRs are welcome!
 - [IYUU Auto Reseed](https://gitee.com/ledc/IYUUAutoReseed): CLI
 - [Tongyifan Reseed](https://github.com/tongyifan/Reseed-backend)
 - [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus)
+- [Cross-Seed-AutoDL](https://github.com/BC44/Cross-Seed-AutoDL)
 
 ### Add Torrent
 
@@ -244,6 +245,7 @@ PRs are welcome!
 
 - [PT Gen](https://github.com/Rhilip/pt-gen-cfworker): Description Generator.
 - [Image Host Helper](https://greasyfork.org/en/scripts/401743-image-host-helper)
+- [RED/OPS Upload Assistant](https://greasyfork.org/en/scripts/389583-red-ops-upload-assistant)
 
 ### Scripts for Seedbox
 
