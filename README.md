@@ -48,9 +48,9 @@ PRs are welcome!
 ## Community
 
 - [Reddit](https://www.reddit.com/r/trackers)
-- [PT风向旗](https://t.me/Ptfxq)
-- [PT官方公告](https://t.me/Ptggb)
-- [PTHub](https://t.me/PT_hub)
+- [PT风向旗](https://t.me/Ptfxq): ![chinese-icon]
+- [PT官方公告](https://t.me/Ptggb): ![chinese-icon]
+- [PTHub](https://t.me/PT_hub): ![chinese-icon]
 
 ## Sites
 
@@ -62,7 +62,7 @@ PRs are welcome!
 
 ### Site Enhancement
 
-- [Douban Info](https://github.com/techmovie/DouBan-Info-for-PT): Add douban information
+- [Douban Info](https://github.com/techmovie/DouBan-Info-for-PT): ![chinese-icon] Add douban information
 - [PTP Show Group Name](https://greasyfork.org/en/scripts/387484-ptp-show-group-name): Add release group name for PTP
 - [PTP Bonus Point Optimization](https://www.dropbox.com/s/qhp2g8xestqkn2c/Bonus%20Point%20Optimization.user.js?dl=1)
 - [BKS Upload Game Helper](https://greasyfork.org/en/scripts/406869-brokenstones-upload-game-helper)
@@ -82,8 +82,8 @@ PRs are welcome!
 - [Transmission](https://github.com/transmission/transmission): Daemon/GUI/Web, C++
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent): Daemon/GUI/Web, C++
 - [Deluge](https://github.com/deluge-torrent/deluge): Daemon/GUI/Web, Python
-- PT管理宝: 微信小程序, Transmission/qBittorrent
-- [随身PT](https://github.com/techmovie/trans-client): 微信小程序, Rutorrent/qBittorrent/Transmission/Deluge/uTorrent/DownloadStation
+- PT管理宝: ![chinese-icon], 微信小程序, Transmission/qBittorrent
+- [随身PT](https://github.com/techmovie/trans-client): ![chinese-icon], 微信小程序, Rutorrent/qBittorrent/Transmission/Deluge/uTorrent/DownloadStation
 
 ### BT RSS
 
@@ -101,8 +101,8 @@ PRs are welcome!
 
 ### BT Misc
 
-- [豆瓣资源下载大师](https://greasyfork.org/en/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD)
 - [IMDB Scout Mod](https://github.com/Purfview/IMDb-Scout-Mod)
+- [豆瓣资源下载大师](https://greasyfork.org/en/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD): ![chinese-icon]
 
 ### Cross Seed Helpers
 
@@ -183,10 +183,10 @@ PRs are welcome!
 
 - [Bazarr](https://github.com/morpheus65535/bazarr): Automation, Like Sonarr
 - [OpenSubtitles](https://www.opensubtitles.org)
-- [SubHD](https://subhd.tv)
-- [字幕库](https://zmk.pw)
-- [伪射手网](https://assrt.net)
-- [A4K](https://www.a4k.net)
+- [SubHD](https://subhd.tv): ![chinese-icon]
+- [字幕库](https://zmk.pw): ![chinese-icon]
+- [伪射手网](https://assrt.net): ![chinese-icon]
+- [A4K](https://www.a4k.net): ![chinese-icon]
 
 ### Video Transcode
 
@@ -234,8 +234,8 @@ PRs are welcome!
 ### Upload Semi-Auto
 
 - [Easy Upload](https://github.com/techmovie/easy-upload)
-- [Auto Feed](https://github.com/tomorrow505/auto_feed_js)
-- [PT种子搬运助手](https://greasyfork.org/zh-CN/scripts/402942-pt%E7%A7%8D%E5%AD%90%E6%90%AC%E8%BF%90%E5%8A%A9%E6%89%8B)
+- [Auto Feed](https://github.com/tomorrow505/auto_feed_js): ![chinese-icon]
+- [PT种子搬运助手](https://greasyfork.org/zh-CN/scripts/402942-pt%E7%A7%8D%E5%AD%90%E6%90%AC%E8%BF%90%E5%8A%A9%E6%89%8B): ![chinese-icon]
 
 ### Upload Bot
 
@@ -295,3 +295,5 @@ PRs are welcome!
 - [magnet-uri](https://github.com/webtorrent/magnet-uri)
 - [create-torrent](https://github.com/webtorrent/create-torrent)
 - [parse-torrent-title](https://github.com/clement-escolano/parse-torrent-title)
+
+[chinese-icon]: ./assets/CN.svg 'Chinese'
