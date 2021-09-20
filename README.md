@@ -37,7 +37,6 @@ PRs are welcome!
   - [Upload Bot](#upload-bot)
   - [Upload Helpers](#upload-helpers)
 - [Seedbox Helpers](#seedbox-helpers)
-- [Misc](#misc)
 - [CLI Tools](#cli-tools)
 - [Development](#development)
   - [Tracker Codebase](#tracker-codebase)
