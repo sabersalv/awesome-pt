@@ -133,6 +133,7 @@ Note
 |------|-------------|
 | [Autodl Irssi](https://autodl-community.github.io/autodl-irssi/) | Auto Download |
 | [Irssi](https://github.com/irssi/irssi) | IRC Client, TUI |
+| [Thelounge](https://github.com/thelounge/thelounge) | IRC Client, WEB |
 
 ### BT Misc
 
