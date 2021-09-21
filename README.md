@@ -167,7 +167,7 @@ Note
 
 | Name | Supported BT Clients |
 |------|----------------------|
-| [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) | ![transmission] ![qbittorrent] ![utorrent] |
+| [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) | ![transmission] ![qbittorrent] ![utorrent] ![deluge] |
 | [omaralvarez/deluge-autoremoveplus](https://github.com/omaralvarez/deluge-autoremoveplus) | ![deluge] |
 
 ### qBittorrent Tools
