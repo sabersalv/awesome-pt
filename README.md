@@ -9,6 +9,7 @@ PRs are very welcome!
 Note
 
 - ![chinese] Chinese language only
+- ![oss] Open Source Software
 - GUI: Graphical User Interface
 - TUI: Terminal User Interface
 - CLI: Command-Line Interface
@@ -20,6 +21,7 @@ Note
 - [Sites](#sites)
   - [Site Enhancement](#site-enhancement)
 - [BT](#bt)
+  - [BT Frontends](#bt-frontends)
   - [BT Clients](#bt-clients)
   - [BT RSS](#bt-rss)
   - [BT IRC](#bt-irc)
@@ -88,7 +90,7 @@ Note
 
 ## BT
 
-### Torrent Frontends
+### BT Frontends
 
 | Name | Platform | Supported BT Clients| Features |
 |------|----------|-----------|----------|
@@ -200,7 +202,7 @@ Note
 
 | Name |
 |------|
-| [Jellyfin](https://github.com/jellyfin/jellyfin) |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) ![oss] |
 | [Emby](https://emby.media) |
 | [Plex](https://www.plex.tv) |
 | [Synology Video Station](https://www.synology.com/en-global/dsm/feature/video_station) |
@@ -215,15 +217,15 @@ Note
 
 | Name | Platform |
 |------|----------|
-| [IINA](https://github.com/iina/iina) | macOS |
-| [VLC](https://www.videolan.org/) | macOS/Linux/Windows |
+| [IINA](https://github.com/iina/iina) ![oss] | macOS |
+| [VLC](https://www.videolan.org/) ![oss] | macOS/Linux/Windows |
 | [PotPlayer](https://potplayer.daum.net) | Windows |
-| [MPC BE](https://sourceforge.net/projects/mpcbe) | Windows |
+| [MPC BE](https://sourceforge.net/projects/mpcbe) ![oss] | Windows |
 | [Infuse](https://firecore.com/infuse) | iOS/macOS |
 | [MX Player](https://www.mxplayer.in/download-apps) | iOS/Android |
-| [MrMc](https://github.com/MrMC/mrmc) | iOS |
+| [MrMc](https://github.com/MrMC/mrmc) ![oss] | iOS |
 | [nPlayer](https://nplayer.com/) | Android |
-| [Kodi](https://github.com/xbmc) |
+| [Kodi](https://github.com/xbmc) ![oss] |
 
 ### Video Subtitle
 
@@ -381,4 +383,6 @@ Note
 | [create-torrent](https://github.com/webtorrent/create-torrent) |
 | [parse-torrent-title](https://github.com/clement-escolano/parse-torrent-title) |
 
-[chinese]: ./assets/CN.svg 'Chinese'
+[chinese]: ./assets/CN.svg 'Chinese language only'
+[freeware]: ./assets/freeware.svg 'Free Software'
+[oss]: ./assets/oss.svg 'Open Source Software'
