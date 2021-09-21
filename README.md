@@ -148,7 +148,7 @@ Note
 | [IYUU Plus](https://github.com/ledccn/IYUUPlus) | Web | ![transmission] ![qbittorrent] |
 | [IYUU GUI](https://github.com/sabersalv/IYUU-GUI) | GUI | ![flood] ![transmission] ![qbittorrent] ![deluge] |
 | [IYUU Auto Reseed](https://gitee.com/ledc/IYUUAutoReseed) | CLI |
-| [Tongyifan Reseed](https://github.com/tongyifan/Reseed-backend) |
+| [tongyifan/Reseed](https://github.com/tongyifan/Reseed-backend) |
 | [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus) |
 | [Cross Seed AutoDL](https://github.com/BC44/Cross-Seed-AutoDL) | CLI |
 | [mmgoodnow/cross-seed](https://github.com/mmgoodnow/cross-seed) | CLI |
