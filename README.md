@@ -10,6 +10,13 @@ Note
 
 - ![chinese] Chinese language only
 - ![oss] Open Source Software
+- ![flood] Flood
+- ![rutorrent] ruTorrent
+- ![rtorrent] rTorrent
+- ![transmission] Transmission
+- ![qbittorrent] qBittorrent
+- ![deluge] Deluge
+- ![utorrent] µTorrent
 - GUI: Graphical User Interface
 - TUI: Terminal User Interface
 - CLI: Command-Line Interface
@@ -94,11 +101,11 @@ Note
 
 | Name | Platform | Supported BT Clients| Features |
 |------|----------|-----------|----------|
-| [Flood](https://github.com/jesec/flood) |  Web | ![deluge] ![flood] ![qbittorrent] ![rtorrent] ![rutorrent] ![transmission] ![utorrent] | RSS |
-| [Rutorrent](https://github.com/Novik/ruTorrent) |  Web | rTorrent | RSS |
-| [Transdroid](https://github.com/erickok/transdroid) | Android | Transmission/rTorrent/Deluge/qBittorrent | |
-| PT管理宝 ![chinese] | 微信小程序 | Transmission/qBittorrent |
-| [随身PT](https://github.com/techmovie/trans-client) ![chinese] | 微信小程序 | Rutorrent/qBittorrent/Transmission/Deluge/uTorrent/DownloadStation | |
+| [Flood](https://github.com/jesec/flood) |  Web | ![rtorrent] ![transmission] ![qbittorrent] ![deluge] | RSS |
+| [Rutorrent](https://github.com/Novik/ruTorrent) |  Web | ![rtorrent] | RSS |
+| [Transdroid](https://github.com/erickok/transdroid) | Android | ![rtorrent] ![transmission] ![qbittorrent] ![deluge] | |
+| PT管理宝 ![chinese] | 微信小程序 | ![transmission] ![qbittorrent] |
+| [随身PT](https://github.com/techmovie/trans-client) ![chinese] | 微信小程序 | ![rutorrent] ![transmission] ![qbittorrent] ![deluge] ![utorrent] |
 
 ### BT Clients
 
@@ -138,8 +145,8 @@ Note
 
 | Name | Interface | Supported BT Clients |
 |------|-----------|----------------------|
-| [IYUU Plus](https://github.com/ledccn/IYUUPlus) | Web | Transmission/qBittorrent |
-| [IYUU GUI](https://github.com/sabersalv/IYUU-GUI) | GUI | Flood/Deluge/Transmission/qBittorrent |
+| [IYUU Plus](https://github.com/ledccn/IYUUPlus) | Web | ![transmission] ![qbittorrent] |
+| [IYUU GUI](https://github.com/sabersalv/IYUU-GUI) | GUI | ![flood] ![transmission] ![qbittorrent] ![deluge] |
 | [IYUU Auto Reseed](https://gitee.com/ledc/IYUUAutoReseed) | CLI |
 | [Tongyifan Reseed](https://github.com/tongyifan/Reseed-backend) |
 | [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus) |
@@ -159,8 +166,8 @@ Note
 
 | Name | Supported BT Clients |
 |------|----------------------|
-| [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) | qBittorrent/Transmission/μTorrent |
-| [omaralvarez/deluge-autoremoveplus](https://github.com/omaralvarez/deluge-autoremoveplus) | Deluge |
+| [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) | ![transmission] ![qbittorrent] ![utorrent] |
+| [omaralvarez/deluge-autoremoveplus](https://github.com/omaralvarez/deluge-autoremoveplus) | ![deluge] |
 
 ### qBittorrent Tools
 
@@ -385,10 +392,10 @@ Note
 
 [chinese]: ./assets/CN.svg 'Chinese language only'
 [oss]: ./assets/oss.svg 'Open Source Software'
-[deluge]: ./assets/deluge.svg
-[flood]: ./assets/flood.svg
-[qbittorrent]: ./assets/qbittorrent.svg
-[rtorrent]: ./assets/rtorrent.svg
-[rutorrent]: ./assets/rutorrent.svg
-[transmission]: ./assets/transmission.svg
-[utorrent]: ./assets/utorrent.svg
+[flood]: ./assets/flood.svg 'Flood'
+[rutorrent]: ./assets/rutorrent.svg 'ruTorrent'
+[rtorrent]: ./assets/rtorrent.svg 'rTorrent'
+[transmission]: ./assets/transmission.svg 'Transmission'
+[qbittorrent]: ./assets/qbittorrent.svg 'qBittorrent'
+[deluge]: ./assets/deluge.svg 'Deluge'
+[utorrent]: ./assets/utorrent.svg 'µTorrent'
