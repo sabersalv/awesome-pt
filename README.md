@@ -238,7 +238,7 @@ Note
 
 | Name | Description |
 |------|-------------|
-| [Bazarr](https://github.com/morpheus65535/bazarr) | Automation, Like Sonarr }
+| [Bazarr](https://github.com/morpheus65535/bazarr) | Automation, Like Sonarr
 | [OpenSubtitles](https://www.opensubtitles.org) |
 | [kitsunekko](https://kitsunekko.net) | Anime subtitles in English, Japanese, Chinese and Korean |
 | [SubHD](https://subhd.tv) ![chinese] |
