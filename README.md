@@ -47,8 +47,9 @@ Note
   - [Upload Semi-Auto](#upload-semi-auto)
   - [Upload Bot](#upload-bot)
   - [Upload Helpers](#upload-helpers)
-- [Seedbox Helpers](#seedbox-helpers)
+- [Scripts For Seedbox](#scripts-for-seedbox)
 - [CLI Tools](#cli-tools)
+- [Homelab](#homelab)
 - [Development](#development)
   - [Tracker Codebase](#tracker-codebase)
   - [API](#api)
@@ -330,12 +331,6 @@ Note
 | [Swizzin](https://github.com/swizzin/swizzin) |
 | [Aniverse/inexistence](https://github.com/Aniverse/inexistence) |
 
-### Homelab
-
-| Name |
-|------|
-| [Organizr](https://github.com/causefx/Organizr) | Services Organizer |
-
 ### CLI Tools
 
 | Name | Description |
@@ -347,6 +342,16 @@ Note
 | [PyroCore](https://github.com/pyroscope/pyrocore) |
 | [torf-cli](https://github.com/rndusr/torf-cli) |
 | [anacrolix/torrent](https://github.com/anacrolix/torrent) |
+
+### Homelab
+
+| Name | Description |
+|------|-------------|
+| [Proxmox VE](https://pve.proxmox.com/wiki/Main_Page) | Virtualization |
+| [Docker](https://www.docker.com/) | Virtualization |
+| [Treafik](https://traefik.io/traefik) | Application proxy |
+| [Let's Encypt](https://letsencrypt.org) | Free SSL certification |
+| [Organizr](https://github.com/causefx/Organizr) | Services organizer |
 
 # Development
 
