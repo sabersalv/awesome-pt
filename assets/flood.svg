@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon</title>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#0E2437" cx="8" cy="8" r="8"></circle>
+        <polygon id="F" fill="#00D07B" points="3.86913489 13.0555556 8.16666667 13.0555556 8.94444444 9.38888889 11.2777778 9.38888889 12.1666667 7.16666667 9.27777778 7.16666667 9.61111111 5.72222222 12.5 5.72222222 13.3888889 3.5 5.72222222 3.5"></polygon>
+    </g>
+</svg>
