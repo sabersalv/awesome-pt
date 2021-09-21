@@ -94,7 +94,7 @@ Note
 
 | Name | Platform | Supported BT Clients| Features |
 |------|----------|-----------|----------|
-| [Flood](https://github.com/jesec/flood) |  Web | rTorrent/qBittorrent/Transmission/Deluge | RSS |
+| [Flood](https://github.com/jesec/flood) |  Web | ![deluge] ![flood] ![qbittorrent] ![rtorrent] ![rutorrent] ![transmission] ![utorrent] | RSS |
 | [Rutorrent](https://github.com/Novik/ruTorrent) |  Web | rTorrent | RSS |
 | [Transdroid](https://github.com/erickok/transdroid) | Android | Transmission/rTorrent/Deluge/qBittorrent | |
 | PT管理宝 ![chinese] | 微信小程序 | Transmission/qBittorrent |
@@ -385,3 +385,10 @@ Note
 
 [chinese]: ./assets/CN.svg 'Chinese language only'
 [oss]: ./assets/oss.svg 'Open Source Software'
+[deluge]: ./assets/deluge.svg
+[flood]: ./assets/flood.svg
+[qbittorrent]: ./assets/qbittorrent.svg
+[rtorrent]: ./assets/rtorrent.svg
+[rutorrent]: ./assets/rutorrent.svg
+[transmission]: ./assets/transmission.svg
+[utorrent]: ./assets/utorrent.svg
