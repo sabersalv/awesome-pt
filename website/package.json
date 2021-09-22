@@ -6,7 +6,7 @@
     "docusaurus": "docusaurus",
     "copy": "cp ../README.md docs && cp -r ../assets static",
     "start": "yarn copy && docusaurus start",
-    "build": "yarn copy && docusaurus build",
+    "build": "yarn copy && ls docs && sed -i 's/readDocFile(versionMetadata, source, options) {/readDocFile(versionMetadata, source, options) { console.log(\":: versionMetadata\", versionMetadata); /' node_modules/@docusaurus/plugin-content-docs/lib/docs.js && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
