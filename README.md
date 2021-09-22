@@ -6,7 +6,7 @@ slug: /
 
 > A collection of awesome PT clients, tools and scripts.
 
-[Join Telegram Discussion](https://t.me/awesome_pt) | [中文TG讨论群](https://t.me/awesome_pt_cn)
+[Join Telegram Discussion](https://t.me/awesome_pt) | [中文TG讨论群](https://t.me/awesome_pt_cn) | [Edit This Page](https://github.com/sabersalv/awesome-pt/edit/main/README.md)
 
 PRs are very welcome!
 
