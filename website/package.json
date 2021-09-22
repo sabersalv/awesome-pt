@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "copy": "cp ../README.md docs",
+    "copy": "cp ../README.md docs && cp -r ../assets static",
     "start": "yarn copy && docusaurus start",
     "build": "yarn copy && docusaurus build",
     "swizzle": "docusaurus swizzle",

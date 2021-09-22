@@ -25,4 +25,6 @@ yarn-error.log*
 !/.yarn/releases
 !/.yarn/sdks
 /.pnp.*
+
 docs/README.md
+static/assets
