@@ -1,3 +1,7 @@
+---
+slug: /
+---
+
 # Awesome PT
 
 > A collection of awesome PT clients, tools and scripts.
