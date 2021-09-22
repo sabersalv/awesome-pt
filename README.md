@@ -323,6 +323,8 @@ Note
 | [JPS2SM](https://git.sugoimusic.me/Sugoimusic/jps2sm) | JPS -> SM |
 | [PTP Uploader](https://github.com/bobbintb/PtpUploader) | PTP |
 | [AB Fetcher](https://github.com/anniemaybytes/fetcher) | AB |
+| [GazelleSync](https://github.com/soleil0-0/GazelleSync) | RED, OPS, NWCD, Dolphin |
+| [RedCurry](https://redacted.ch/forums.php?action=viewthread&threadid=45310&postid=904390#post904390) | RED, OPS, NWCD, Dolphin (CLI) |
 
 ### Upload Helpers
 
