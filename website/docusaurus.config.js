@@ -9,6 +9,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   url: 'https://awesome-pt.netlify.app',
   baseUrl: '/',
 
+	i18n: {
+		defaultLocale: 'en',    
+		locales: ['en', 'zh-Hans'],
+  },
+
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -28,6 +33,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      navbar: { 
+        title: 'Awesome PT',
+        items: [
+          { type: 'localeDropdown', position: 'right' },
+          { label: 'GitHub', position: 'right', href: 'https://github.com/sabersalv/awesome-pt' },
+        ]
+      },
       colorMode: {
         disableSwitch: true,
         respectPrefersColorScheme: true,
