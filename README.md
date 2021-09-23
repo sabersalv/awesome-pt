@@ -388,6 +388,7 @@ Note
 
 | Name |
 |------|
+| [Flood API](https://github.com/sabersalv/flood-api) |
 | [parse-torrent](https://github.com/webtorrent/parse-torrent) |
 | [magnet-uri](https://github.com/webtorrent/magnet-uri) |
 | [create-torrent](https://github.com/webtorrent/create-torrent) |
