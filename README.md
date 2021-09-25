@@ -60,6 +60,7 @@ Note
 - [CLI Tools](#cli-tools)
 - [Homelab](#homelab)
 - [Development](#development)
+  - [Starter Templates](#starter-templates)
   - [Tracker Codebase](#tracker-codebase)
   - [API](#api)
   - [Libraries](#libraries)
@@ -372,6 +373,12 @@ Note
 |------|
 | [Theory Wiki](https://wiki.theory.org/Main_Page) |
 | [Torrent file specification](http://www.bittorrent.org/beps/bep_0003.html) |
+
+## Starter Templates
+
+| Name | For | Features |
+|------|-----|----------|
+| [sabersalv/template-userscript](https://github.com/sabersalv/template-userscript) | UserScript | Typescript + Esbuild + Preact/JSX + Emotion + SVG loader + Prettier + Eslint + fetch polyfill |
 
 ## Tracker Codebase
 
