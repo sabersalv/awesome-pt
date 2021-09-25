@@ -109,12 +109,13 @@ Note
 
 ### BT Clients
 
-| Name | Interface | Language |
-|------|-----------|----------|
+| Name | Interface | Language | Note |
+|------|-----------|----------|------|
 | [rTorrent](https://github.com/jesec/rtorrent) | Daemon/TUI | C++ |
 | [Transmission](https://github.com/transmission/transmission) | Daemon/GUI/Web | C++ |
 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | Daemon/GUI/Web | C++ |
 | [Deluge](https://github.com/deluge-torrent/deluge) | Daemon/GUI/Web | Python |
+| [ChisBread/transmission_skip_patch](https://github.com/ChisBread/transmission_skip_patch) ![chinese] | | | Fast hash checking |  
 
 ### BT RSS
 
@@ -367,20 +368,25 @@ Note
 
 # Development
 
-- [Torrent file specification](http://www.bittorrent.org/beps/bep_0003.html)
+| Name |
+|------|
+| [Theory Wiki](https://wiki.theory.org/Main_Page) |
+| [Torrent file specification](http://www.bittorrent.org/beps/bep_0003.html) |
 
 ## Tracker Codebase
 
-- [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms)
+| Name |
+|------|
+| [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) |
 
 ## API
 
-| Name |
-|------|
+| Name | Note |
+|------|-------|
 | [TMDB API](https://developers.themoviedb.org) |
 | [OMDB API](http://www.omdbapi.com) |
 | [IMDB API](https://developer.imdb.com) |
-| [Douban API](https://github.com/zce/douban-api-docs/tree/f0847616a75e1dca5ee3e123166c5f2d9ee5acab) |
+| Douban Frodo API | [link1](https://github.com/ronggang/PT-Plugin-Plus/issues/584) [link2](https://github.com/zhanghai/Douya/issues/99) |
 
 ## Libraries
 
