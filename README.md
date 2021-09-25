@@ -109,12 +109,13 @@ Note
 
 ### BT Clients
 
-| Name | Interface | Language |
-|------|-----------|----------|
+| Name | Interface | Language | Note |
+|------|-----------|----------|------|
 | [rTorrent](https://github.com/jesec/rtorrent) | Daemon/TUI | C++ |
 | [Transmission](https://github.com/transmission/transmission) | Daemon/GUI/Web | C++ |
 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | Daemon/GUI/Web | C++ |
 | [Deluge](https://github.com/deluge-torrent/deluge) | Daemon/GUI/Web | Python |
+| [ChisBread/transmission_skip_patch](https://github.com/ChisBread/transmission_skip_patch) ![chinese] | | | Fast hash checking |  
 
 ### BT RSS
 
