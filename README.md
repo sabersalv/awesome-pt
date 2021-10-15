@@ -337,7 +337,7 @@ Note
 | [Image Host Helper](https://greasyfork.org/en/scripts/401743-image-host-helper) |
 | [RED/OPS Upload Assistant](https://greasyfork.org/en/scripts/389583-red-ops-upload-assistant) |
 
-### Scripts for Seedbox
+## Scripts for Seedbox
 
 | Name |
 |------|
@@ -346,7 +346,7 @@ Note
 | [Swizzin](https://github.com/swizzin/swizzin) |
 | [Aniverse/inexistence](https://github.com/Aniverse/inexistence) |
 
-### CLI Tools
+## CLI Tools
 
 | Name | Description |
 |------|-------------|
@@ -358,7 +358,7 @@ Note
 | [torf-cli](https://github.com/rndusr/torf-cli) |
 | [anacrolix/torrent](https://github.com/anacrolix/torrent) |
 
-### Homelab
+## Homelab
 
 | Name | Description |
 |------|-------------|
