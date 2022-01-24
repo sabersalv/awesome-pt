@@ -248,6 +248,7 @@ Note
 | [字幕库](https://zmk.pw) ![chinese] |
 | [伪射手网](https://assrt.net) ![chinese] |
 | [A4K](https://www.a4k.net) ![chinese] |
+| [ChineseSubFinder](https://github.com/allanpk716) ![chinese] |自动化中文字幕下载。字幕网站支持 zimuku、subhd、shooter、xunlei 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 
 ### Video Transcode
 
