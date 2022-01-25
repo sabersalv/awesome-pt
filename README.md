@@ -239,15 +239,16 @@ Note
 
 ### Video Subtitle
 
-| Name | Description |
-|------|-------------|
-| [Bazarr](https://github.com/morpheus65535/bazarr) | Automation, Like Sonarr
-| [OpenSubtitles](https://www.opensubtitles.org) |
-| [kitsunekko](https://kitsunekko.net) | Anime subtitles in English, Japanese, Chinese and Korean |
-| [SubHD](https://subhd.tv) ![chinese] |
-| [字幕库](https://zmk.pw) ![chinese] |
-| [伪射手网](https://assrt.net) ![chinese] |
-| [A4K](https://www.a4k.net) ![chinese] |
+| Name | Description | Supported Sites | Supported Apps |
+|------|-------------|-----------------|----------------|
+| [Bazarr](https://github.com/morpheus65535/bazarr) | Automation |
+| [ChineseSubFinder](https://github.com/allanpk716) ![chinese] | Automation | zimuku, subhd, shooter, xunlei | Jellyfin, Emby, Plex, Sonarr, Radarr, TMM |
+| [OpenSubtitles](https://www.opensubtitles.org) | Website |
+| [kitsunekko](https://kitsunekko.net) | Website, Anime |
+| [SubHD](https://subhd.tv) ![chinese] | Website |
+| [字幕库](https://zmk.pw) ![chinese] | Website |
+| [伪射手网](https://assrt.net) ![chinese] | Website |
+| [A4K](https://www.a4k.net) ![chinese] | Website |
 
 ### Video Transcode
 
