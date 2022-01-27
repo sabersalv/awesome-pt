@@ -391,7 +391,7 @@ Note
 
 | Name | Stack | Status |
 |------|----------|------|
-| [Torrust](https://github.com/torrust/torrust) | Rust, Vue | Active |
+| [Torrust](https://github.com/torrust/torrust) | Rust, Vue | [Active](https://github.com/torrust/torrust/graphs/commit-activity) |
 
 ### Tracker/Announce Only
 
