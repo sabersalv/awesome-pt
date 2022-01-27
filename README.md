@@ -379,9 +379,10 @@ Note
 
 ## Starter Templates
 
-| Name | For | Features |
+| Name | For | Stack |
 |------|-----|----------|
-| [sabersalv/template-userscript](https://github.com/sabersalv/template-userscript) | UserScript | Typescript + Esbuild + Preact/JSX + Emotion + SVG loader + Prettier + Eslint + fetch polyfill |
+| [sabersalv/template-userscript](https://github.com/sabersalv/template-userscript) | UserScript | Esbuild, Typescript, JSX, Emotion, SVG loader, Prettier, Eslint, fetch polyfill |
+| [cvzi/rollup-userscript-template](https://github.com/cvzi/rollup-userscript-template) | Userscript | Rollup, Typescript, JSX |
 
 ## Tracker Codebase
 
