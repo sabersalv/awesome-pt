@@ -21,6 +21,7 @@ Note
 - TUI: Terminal User Interface
 - CLI: Command-Line Interface
 - Daemon: Runs as a background process
+- Status: Active, Dead. Zero commit in a year means Dead
 
 ## Table of Contents
 
@@ -384,9 +385,19 @@ Note
 
 ## Tracker Codebase
 
-| Name |
-|------|
-| [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) |
+> Also see [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms)
+
+### Frontend + Backend
+
+| Name | Stack | Status |
+|------|----------|------|
+| [Torrust](https://github.com/torrust/torrust) | Rust, Vue | [Active](https://github.com/torrust/torrust/graphs/commit-activity) |
+
+### Tracker/Announce Only
+
+| Name | Stack | Description |
+|------|-------|-------------|
+| [Torrust Tracker](https://github.com/torrust/torrust-tracker) | Rust | For Torrust |
 
 ## API
 
