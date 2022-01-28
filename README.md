@@ -134,7 +134,7 @@ Note
 
 | Name | Description |
 |------|-------------|
-| [Autodl Irssi](https://autodl-community.github.io/autodl-irssi/) | Auto Download |
+| [Autodl Irssi](https://github.com/autodl-community/autodl-irssi) | Auto Download |
 | [Irssi](https://github.com/irssi/irssi) | IRC Client, TUI |
 | [Thelounge](https://github.com/thelounge/thelounge) | IRC Client, WEB |
 
@@ -203,10 +203,10 @@ Note
 | [Nefarious](https://github.com/lardbit/nefarious) | Movie & TV | like Sonarr |
 | [Bobarr](https://github.com/iam4x/bobarr) | Movie & TV | like Sonarr |
 | [Medusa](https://pymedusa.com) | TV |
-| [tinyMediaManager](https://www.tinymediamanager.org) | Movie & TV | Metadata |
+| [tinyMediaManager](https://gitlab.com/tinyMediaManager/tinyMediaManager) | Movie & TV | Metadata |
 | [Filebot](https://www.filebot.net) | Movie & TV | Rename |
 | [SickRage](https://www.sickrage.ca) | TV |
-| [Couchpotato](https://couchpota.to) | Movie |
+| [Couchpotato](https://github.com/CouchPotato/CouchPotatoServer) | Movie |
 | [DuckieTV](https://github.com/SchizoDuckie/DuckieTV) | TV |
 
 ### Video Server
@@ -229,21 +229,21 @@ Note
 | Name | Platform |
 |------|----------|
 | [IINA](https://github.com/iina/iina) ![oss] | macOS |
-| [VLC](https://www.videolan.org/) ![oss] | macOS/Linux/Windows |
+| [VLC](https://github.com/videolan/vlc) ![oss] | macOS/Linux/Windows |
 | [PotPlayer](https://potplayer.daum.net) | Windows |
 | [MPC BE](https://sourceforge.net/projects/mpcbe) ![oss] | Windows |
 | [Infuse](https://firecore.com/infuse) | iOS/macOS |
 | [MX Player](https://www.mxplayer.in/download-apps) | iOS/Android |
 | [MrMc](https://github.com/MrMC/mrmc) ![oss] | iOS |
 | [nPlayer](https://nplayer.com/) | Android |
-| [Kodi](https://github.com/xbmc) ![oss] |
+| [Kodi](https://github.com/xbmc/xbmc) ![oss] |
 
 ### Video Subtitle
 
 | Name | Description | Supported Sites | Supported Apps |
 |------|-------------|-----------------|----------------|
 | [Bazarr](https://github.com/morpheus65535/bazarr) | Automation |
-| [ChineseSubFinder](https://github.com/allanpk716) ![chinese] | Automation | zimuku, subhd, shooter, xunlei | Jellyfin, Emby, Plex, Sonarr, Radarr, TMM |
+| [ChineseSubFinder](https://github.com/allanpk716/ChineseSubFinder) ![chinese] | Automation | zimuku, subhd, shooter, xunlei | Jellyfin, Emby, Plex, Sonarr, Radarr, TMM |
 | [OpenSubtitles](https://www.opensubtitles.org) | Website |
 | [kitsunekko](https://kitsunekko.net) | Website, Anime |
 | [SubHD](https://subhd.tv) ![chinese] | Website |
@@ -279,7 +279,7 @@ Note
 | [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) |
 | [mStream](https://github.com/IrosTheBeggar/mStream) |
 | [Black Candy](https://github.com/aidewoode/black_candy) |
-| [Music Player Deamon](https://www.musicpd.org) |
+| [Music Player Deamon](https://github.com/MusicPlayerDaemon/MPD) |
 | [Compactd](https://github.com/compactd/compactd) |
 
 ### Music Transcode
@@ -364,9 +364,9 @@ Note
 
 | Name | Description |
 |------|-------------|
-| [Proxmox VE](https://pve.proxmox.com/wiki/Main_Page) | Virtualization |
-| [Docker](https://www.docker.com/) | Virtualization |
-| [Treafik](https://traefik.io/traefik) | Application proxy |
+| [Proxmox VE](https://github.com/proxmox) | Virtualization |
+| [Docker](https://github.com/docker) | Virtualization |
+| [Treafik](https://github.com/traefik/traefik) | Application proxy |
 | [Let's Encypt](https://letsencrypt.org) | Free SSL certification |
 | [Organizr](https://github.com/causefx/Organizr) | Services organizer |
 
