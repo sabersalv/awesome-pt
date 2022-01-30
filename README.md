@@ -396,9 +396,10 @@ Note
 
 ### Tracker/Announce Only
 
-| Name | Stack | Description |
-|------|-------|-------------|
-| [Torrust Tracker](https://github.com/torrust/torrust-tracker) | Rust | For Torrust |
+| Name | Type | Stack | Description |
+|------|------|-------|-------------|
+| [Torrust Tracker](https://github.com/torrust/torrust-tracker) | Private, Public | Rust | For Torrust |
+| [Aquatic](https://github.com/greatest-ape/aquatic) | Public | Rust | |
 
 ## API
 
