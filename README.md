@@ -330,6 +330,7 @@ Note
 | [AB Fetcher](https://github.com/anniemaybytes/fetcher) | AB |
 | [GazelleSync](https://github.com/soleil0-0/GazelleSync) | RED, OPS, NWCD, Dolphin |
 | [RedCurry](https://redacted.ch/forums.php?action=viewthread&threadid=45310&postid=904390#post904390) | RED, OPS, NWCD, Dolphin (CLI) |
+| [Upload Assistant](https://github.com/L4GSP1KE/Upload-Assistant) | BLU/BHD/Aither/THR/STC/R4E/STT/HP |
 
 ### Upload Helpers
 
@@ -338,6 +339,7 @@ Note
 | [PT Gen ![chinese]](https://github.com/Rhilip/pt-gen-cfworker) | Description Generator |
 | [Image Host Helper](https://greasyfork.org/en/scripts/401743-image-host-helper) |
 | [RED/OPS Upload Assistant](https://greasyfork.org/en/scripts/389583-red-ops-upload-assistant) |
+| [upsies](https://github.com/plotski/upsies) | Metainfo, Screenshot, Torrent |
 
 ## Scripts for Seedbox
 
