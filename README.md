@@ -354,13 +354,15 @@ Note
 
 | Name | Description |
 |------|-------------|
-| [transmission-cli](https://man.archlinux.org/man/transmission-create.1.en) |
+| [torrenttools](https://github.com/fbdtemme/torrenttools) | Create, inspect, modify torrent file |
+| [transmission-cli](https://man.archlinux.org/man/transmission-create.1.en) | Create, inspect, modify torrent file |
+| [mktorrent](https://github.com/pobrn/mktorrent) | Create torrent file |
+| [torf-cli](https://github.com/rndusr/torf-cli) | Create, inspect, modify torrent file |
 | [mediainfo](https://github.com/MediaArea/MediaInfo) |
 | [bdinfo](https://github.com/UniqProject/BDInfo) |
-| [mktorrent](https://github.com/pobrn/mktorrent) | Create torrent file |
 | [PyroCore](https://github.com/pyroscope/pyrocore) |
-| [torf-cli](https://github.com/rndusr/torf-cli) |
 | [anacrolix/torrent](https://github.com/anacrolix/torrent) |
+
 
 ## Homelab
 
