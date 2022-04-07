@@ -213,6 +213,7 @@ Note
 
 | Name |
 |------|
+| [Dim](https://github.com/Dusk-Labs/dim) ![oss] |
 | [Jellyfin](https://github.com/jellyfin/jellyfin) ![oss] |
 | [Emby](https://emby.media) |
 | [Plex](https://www.plex.tv) |
