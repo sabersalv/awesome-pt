@@ -191,6 +191,7 @@ Note
 | [Prowlarr](https://github.com/Prowlarr/Prowlarr) | Aggregate Indexer |
 | [Cardigann](https://github.com/cardigann/cardigann) | Aggregate Indexer |
 | [PT Sign-in](https://github.com/lhllhx/PT_signin) |
+| [Vertex](https://lswl.in/2022/03/17/vertex-docs/) ![chinese] |
 
 ## Movie & TV
 
