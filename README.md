@@ -192,6 +192,7 @@ Note
 | [Cardigann](https://github.com/cardigann/cardigann) | Aggregate Indexer |
 | [PT Sign-in](https://github.com/lhllhx/PT_signin) |
 | [Vertex](https://lswl.in/2022/03/17/vertex-docs/) ![chinese] |
+| [PT小助手](https://hub.docker.com/r/crazyq/pt_helper) ![chinese] |
 
 ## Movie & TV
 
