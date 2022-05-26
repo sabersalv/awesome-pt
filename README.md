@@ -185,6 +185,7 @@ Note
 | [qbittools](https://gitlab.com/AlexKM/qbittools) | CLI |
 | [qBittorrent Tracker Hound](https://github.com/JakeWharton/qbt-tracker-hound) | CLI |
 | [qBt Migrate](https://github.com/jslay88/qbt_migrate) | CLI |
+| [Grafana Dashboard for qBittorrent](https://github.com/caseyscarborough/qbittorrent-grafana-dashboard) | |
 
 ## Automation
 
