@@ -158,6 +158,7 @@ Note
 | [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus) |
 | [Cross Seed AutoDL](https://github.com/BC44/Cross-Seed-AutoDL) | CLI |
 | [mmgoodnow/cross-seed](https://github.com/mmgoodnow/cross-seed) | CLI |
+| [Autotorrent2](https://github.com/JohnDoee/autotorrent2) | CLI |
 
 ### Add Torrent
 
