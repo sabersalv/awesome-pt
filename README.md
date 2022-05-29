@@ -65,8 +65,6 @@ Note
 - [Development](#development)
   - [Starter Templates](#starter-templates)
   - [Tracker Codebase](#tracker-codebase)
-    - [Frontend + Backend](#frontend--backend)
-    - [Tracker/Announce Only](#trackerannounce-only)
   - [API](#api)
   - [Libraries](#libraries)
     - [Javascript](#javascript)
@@ -399,20 +397,7 @@ Note
 
 ## Tracker Codebase
 
-> Also see [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms)
-
-### Frontend + Backend
-
-| Name | Stack | Status |
-|------|----------|------|
-| [Torrust](https://github.com/torrust/torrust) | Rust, Vue | [Active](https://github.com/torrust/torrust/graphs/commit-activity) |
-
-### Tracker/Announce Only
-
-| Name | Type | Stack | Description |
-|------|------|-------|-------------|
-| [Torrust Tracker](https://github.com/torrust/torrust-tracker) | Private, Public | Rust | For Torrust |
-| [Aquatic](https://github.com/greatest-ape/aquatic) | Public | Rust | |
+> See [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms)
 
 ## API
 
