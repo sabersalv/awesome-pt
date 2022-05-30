@@ -27,9 +27,9 @@ Note
 
 - [Awesome PT](#awesome-pt)
   - [Table of Contents](#table-of-contents)
-  - [Community](#community)
   - [Sites](#sites)
     - [Site Enhancement](#site-enhancement)
+  - [Community](#community)
   - [BT](#bt)
     - [BT Frontends](#bt-frontends)
     - [BT Clients](#bt-clients)
@@ -69,23 +69,14 @@ Note
   - [Libraries](#libraries)
     - [Javascript](#javascript)
 
-## Community
-
-| Name |
-|------|
-| [Reddit](https://www.reddit.com/r/trackers) |
-| [PT风向旗](https://t.me/Ptfxq) ![chinese] |
-| [PT官方公告](https://t.me/Ptggb) ![chinese] |
-| [PTHub](https://t.me/PT_hub) ![chinese] |
-
 ## Sites
 
 | Name |
 |------|
 | [Gentoo Wiki](https://wiki.installgentoo.com/wiki/Private_trackers#What_are_the_best_private_trackers.3F) |
 | [Private Tracker List](https://hdvinnie.github.io/Private-Trackers-Spreadsheet) |
+| [Reddit](https://www.reddit.com/r/trackers/comments/tw4ji0/tracker_faq_and_recommended_sites/) |
 | [PT Analytics](https://api.rhilip.info/ptanalytics.html) |
-| [Tracker Status](https://trackerstatus.info) |
 | [OpenTrackers](https://opentrackers.org/tracker-list) |
 
 ### Site Enhancement
@@ -98,6 +89,15 @@ Note
 | [BKS Upload Game Helper](https://greasyfork.org/en/scripts/406869-brokenstones-upload-game-helper) |
 | [WhuBBCode+](https://greasyfork.org/en/scripts/380518-whutbbcode) | Add BBCode toolbar |
 | [EasyCompare](https://github.com/N3xusHD/EasyCompare) |
+
+## Community
+
+| Name |
+|------|
+| [Reddit](https://www.reddit.com/r/trackers) |
+| [PT风向旗](https://t.me/Ptfxq) ![chinese] |
+| [PT官方公告](https://t.me/Ptggb) ![chinese] |
+| [PTHub](https://t.me/PT_hub) ![chinese] |
 
 ## BT
 
