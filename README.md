@@ -127,9 +127,9 @@ Note
 |------|
 | [Flexget](https://github.com/Flexget/Flexget) |
 | [Show RSS](https://showrss.info) |
-| [T RSS](https://github.com/capric98/t-rss) |
-| [Fish RSS](https://github.com/qfishpear/fishrss_simple) |
-| [Flexget NexusPHP](https://github.com/Juszoe/flexget-nexusphp) |
+| [T RSS](https://github.com/capric98/t-rss) ![chinese] |
+| [Fish RSS](https://github.com/qfishpear/fishrss_simple) ![chinese] |
+| [Flexget NexusPHP](https://github.com/Juszoe/flexget-nexusphp) ![chinese] |
 | [Promotion](https://github.com/Alvinnfly/promotion) |
 
 ### BT IRC
@@ -151,11 +151,11 @@ Note
 
 | Name | Interface | Supported BT Clients |
 |------|-----------|----------------------|
-| [IYUU Plus](https://github.com/ledccn/IYUUPlus) | Web | ![transmission] ![qbittorrent] |
-| [IYUU GUI](https://github.com/sabersalv/IYUU-GUI) | GUI | ![flood] ![transmission] ![qbittorrent] ![deluge] |
-| [IYUU Auto Reseed](https://gitee.com/ledc/IYUUAutoReseed) | CLI |
+| [IYUU Plus](https://github.com/ledccn/IYUUPlus) ![chinese] | Web | ![transmission] ![qbittorrent] |
+| [IYUU GUI](https://github.com/sabersalv/IYUU-GUI) ![chinese] | GUI | ![flood] ![transmission] ![qbittorrent] ![deluge] |
+| [IYUU Auto Reseed](https://gitee.com/ledc/IYUUAutoReseed) ![chinese] | CLI |
+| [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus) ![chinese] |
 | [tongyifan/Reseed](https://github.com/tongyifan/Reseed-backend) |
-| [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus) |
 | [Cross Seed AutoDL](https://github.com/BC44/Cross-Seed-AutoDL) | CLI |
 | [mmgoodnow/cross-seed](https://github.com/mmgoodnow/cross-seed) | CLI |
 | [Autotorrent2](https://github.com/JohnDoee/autotorrent2) | CLI |
@@ -164,7 +164,7 @@ Note
 
 | Name |
 |------|
-| [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus) |
+| [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus) ![chinese] |
 | [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) |
 | [Electorrent](https://github.com/tympanix/Electorrent) |
 | [Torrent Control](https://github.com/Mika-/torrent-control) |
@@ -190,11 +190,11 @@ Note
 
 | Name | Features |
 |------|----------|
-| [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus) | Aggregate Indexer, Account Stats, Add Torrent, Bulk Download, Cross Seed |
+| [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus) ![chinese] | Aggregate Indexer, Account Stats, Add Torrent, Bulk Download, Cross Seed |
 | [Jackett](https://github.com/Jackett/Jackett) | Aggregate Indexer |
 | [Prowlarr](https://github.com/Prowlarr/Prowlarr) | Aggregate Indexer |
 | [Cardigann](https://github.com/cardigann/cardigann) | Aggregate Indexer |
-| [PT Sign-in](https://github.com/lhllhx/PT_signin) |
+| [PT Sign-in](https://github.com/lhllhx/PT_signin) ![chinese] |
 | [Vertex](https://lswl.in/2022/03/17/vertex-docs/) ![chinese] |
 | [PT小助手](https://hub.docker.com/r/crazyq/pt_helper) ![chinese] |
 
@@ -407,7 +407,7 @@ Note
 | [TMDB API](https://developers.themoviedb.org) |
 | [OMDB API](http://www.omdbapi.com) |
 | [IMDB API](https://developer.imdb.com) |
-| Douban Frodo API | [link1](https://github.com/ronggang/PT-Plugin-Plus/issues/584) [link2](https://github.com/zhanghai/Douya/issues/99) |
+| Douban Frodo API ![chinese] | [link1](https://github.com/ronggang/PT-Plugin-Plus/issues/584) [link2](https://github.com/zhanghai/Douya/issues/99) |
 
 ## Libraries
 
