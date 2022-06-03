@@ -6,7 +6,8 @@
 
 PRs are very welcome!
 
-Note
+<details>
+  <summary>Annonations</summary>
 
 - ![chinese] Chinese language only
 - ![oss] Open Source Software
@@ -22,52 +23,7 @@ Note
 - CLI: Command-Line Interface
 - Daemon: Runs as a background process
 - Status: Active, Dead. Zero commit in a year means Dead
-
-## Table of Contents
-
-- [Awesome PT](#awesome-pt)
-  - [Table of Contents](#table-of-contents)
-  - [Sites](#sites)
-    - [Site Enhancement](#site-enhancement)
-  - [Community](#community)
-  - [BT](#bt)
-    - [BT Frontends](#bt-frontends)
-    - [BT Clients](#bt-clients)
-    - [BT RSS](#bt-rss)
-    - [BT IRC](#bt-irc)
-    - [BT Misc](#bt-misc)
-    - [Cross Seed Helpers](#cross-seed-helpers)
-    - [Add Torrent](#add-torrent)
-    - [Auto Remove](#auto-remove)
-    - [qBittorrent Tools](#qbittorrent-tools)
-  - [Automation](#automation)
-  - [Movie & TV](#movie--tv)
-    - [Video Automation](#video-automation)
-    - [Video Server](#video-server)
-    - [Video Streaming](#video-streaming)
-    - [Video Player](#video-player)
-    - [Video Subtitle](#video-subtitle)
-    - [Video Transcode](#video-transcode)
-  - [Music](#music)
-    - [Music Automation](#music-automation)
-    - [Music Server](#music-server)
-    - [Music Transcode](#music-transcode)
-  - [EBook](#ebook)
-    - [EBook Automation](#ebook-automation)
-    - [EBook Manager](#ebook-manager)
-  - [Upload](#upload)
-    - [Upload Semi-Auto](#upload-semi-auto)
-    - [Upload Bot](#upload-bot)
-    - [Upload Helpers](#upload-helpers)
-  - [Scripts for Seedbox](#scripts-for-seedbox)
-  - [CLI Tools](#cli-tools)
-  - [Homelab](#homelab)
-- [Development](#development)
-  - [Starter Templates](#starter-templates)
-  - [Tracker Codebase](#tracker-codebase)
-  - [API](#api)
-  - [Libraries](#libraries)
-    - [Javascript](#javascript)
+</details>
 
 ## Sites
 
