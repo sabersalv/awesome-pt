@@ -2,7 +2,7 @@
 
 > A collection of awesome PT clients, tools and scripts.
 
-[Join Telegram Discussion](https://t.me/awesome_pt) | [中文TG讨论群](https://t.me/awesome_pt_cn)
+[Telegram](https://t.me/awesome_pt)
 
 PRs are very welcome!
 
