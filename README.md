@@ -50,7 +50,8 @@ PRs are very welcome!
 
 | Name |
 |------|
-| [Reddit](https://www.reddit.com/r/trackers) |
+| [Reddit Trackers](https://www.reddit.com/r/trackers) |
+| [TorrentFreak](https://torrentfreak.com) |
 | [PT风向旗](https://t.me/Ptfxq) ![chinese] |
 | [PT官方公告](https://t.me/Ptggb) ![chinese] |
 | [PTHub](https://t.me/PT_hub) ![chinese] |
