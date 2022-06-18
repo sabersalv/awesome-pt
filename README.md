@@ -34,6 +34,7 @@ PRs are very welcome!
 | [Reddit](https://www.reddit.com/r/trackers/comments/tw4ji0/tracker_faq_and_recommended_sites/) |
 | [PT Analytics](https://api.rhilip.info/ptanalytics.html) |
 | [OpenTrackers](https://opentrackers.org/tracker-list) |
+| [PT站点汇总](https://github.com/sabersalv/awesome-pt/raw/main/assets/PT站点汇总.png) ![chinese] |
 
 ### Site Enhancement
 
