@@ -285,18 +285,19 @@ PRs are very welcome!
 
 | Name | Description |
 |------|-------------|
+| [Upload Assistant](https://github.com/L4GSP1KE/Upload-Assistant) | BLU/BHD/Aither/THR/STC/R4E/STT/HP |
 | [PT Autoseed](https://github.com/Rhilip/Pt-Autoseed) |
 | [SJTU Autoseed](https://github.com/Rhilip/SJTU-Autoseed) |
 | [Rachpt AutoSeed](https://github.com/rachpt/AutoSeed) |
 | [Alexandria](https://github.com/pthcode/alexandria) | Ebook |
-| [TJUPT Anime Autoseed](https://github.com/tongyifan/TJUPT-Anime-Autoseed) | TJUP, Anime |
+| [TJUPT Anime Autoseed](https://github.com/tongyifan/TJUPT-Anime-Autoseed) | TJUP |
 | [GGN2PTer](https://github.com/scatking/ggn2pter) | GGN -> PTer |
 | [JPS2SM](https://git.sugoimusic.me/Sugoimusic/jps2sm) | JPS -> SM |
 | [PTP Uploader](https://github.com/bobbintb/PtpUploader) | PTP |
 | [AB Fetcher](https://github.com/anniemaybytes/fetcher) | AB |
-| [GazelleSync](https://github.com/soleil0-0/GazelleSync) | RED, OPS, NWCD, Dolphin |
-| [RedCurry](https://redacted.ch/forums.php?action=viewthread&threadid=45310&postid=904390#post904390) | RED, OPS, NWCD, Dolphin (CLI) |
-| [Upload Assistant](https://github.com/L4GSP1KE/Upload-Assistant) | BLU/BHD/Aither/THR/STC/R4E/STT/HP |
+| [GazelleSync](https://github.com/soleil0-0/GazelleSync) | RED/OPS/NWCD/DIC  |
+| [RedCurry](https://redacted.ch/forums.php?action=viewthread&threadid=45310&postid=904390#post904390) | CLI, RED/OPS/NWCD/DIC  |
+| [smoked-salmon](https://github.com/ligh7s/smoked-salmon) | CLI, RED |
 
 ### Upload Helpers
 
