@@ -286,6 +286,8 @@ PRs are very welcome!
 | Name | Description |
 |------|-------------|
 | [Upload Assistant](https://github.com/L4GSP1KE/Upload-Assistant) | BLU/BHD/Aither/THR/STC/R4E/STT/HP |
+| [GG Bot Upload Assistan](https://gitlab.com/NoobMaster669/gg-bot-upload-assistant) | CLI, UNIT3D/Gazelle/.. |
+| [xpbot](https://github.com/ryelogheat/xpbot) | CLI, UNIT3D |
 | [PT Autoseed](https://github.com/Rhilip/Pt-Autoseed) |
 | [SJTU Autoseed](https://github.com/Rhilip/SJTU-Autoseed) |
 | [Rachpt AutoSeed](https://github.com/rachpt/AutoSeed) |
