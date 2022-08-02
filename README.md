@@ -80,24 +80,28 @@ PRs are very welcome!
 | [Deluge](https://github.com/deluge-torrent/deluge) | Daemon/GUI/Web | Python |
 | [ChisBread/transmission_skip_patch](https://github.com/ChisBread/transmission_skip_patch) ![chinese] | | | Fast hash checking |  
 
-### BT RSS
-
-| Name |
-|------|
-| [Flexget](https://github.com/Flexget/Flexget) |
-| [Show RSS](https://showrss.info) |
-| [T RSS](https://github.com/capric98/t-rss) ![chinese] |
-| [Fish RSS](https://github.com/qfishpear/fishrss_simple) ![chinese] |
-| [Flexget NexusPHP](https://github.com/Juszoe/flexget-nexusphp) ![chinese] |
-| [Promotion](https://github.com/Alvinnfly/promotion) |
-
-### BT IRC
+### BT AutoDownload
 
 | Name | Description |
 |------|-------------|
-| [Autodl Irssi](https://github.com/autodl-community/autodl-irssi) | Auto Download |
-| [Irssi](https://github.com/irssi/irssi) | IRC Client, TUI |
-| [Thelounge](https://github.com/thelounge/thelounge) | IRC Client, WEB |
+| [Flexget](https://github.com/Flexget/Flexget) | RSS |
+| [Show RSS](https://showrss.info) | RSS |
+| [T RSS](https://github.com/capric98/t-rss) ![chinese] | RSS |
+| [Fish RSS](https://github.com/qfishpear/fishrss_simple) ![chinese] | RSS |
+| [Flexget NexusPHP](https://github.com/Juszoe/flexget-nexusphp) ![chinese] | RSS, NexusPHP |
+| [Promotion](https://github.com/Alvinnfly/promotion) | RSS, NexusPHP |
+| [Autobrr](https://github.com/autobrr/autobrr) | IRC, GUI |
+| [Autodl Irssi](https://github.com/autodl-community/autodl-irssi) | IRC, CLI |
+| [Trackarr](https://gitlab.com/cloudb0x/trackarr) | IRC, CLI |
+
+### BT AddTorrent
+
+| Name |
+|------|
+| [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus) ![chinese] |
+| [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) |
+| [Electorrent](https://github.com/tympanix/Electorrent) |
+| [Torrent Control](https://github.com/Mika-/torrent-control) |
 
 ### BT Misc
 
@@ -119,14 +123,6 @@ PRs are very welcome!
 | [mmgoodnow/cross-seed](https://github.com/mmgoodnow/cross-seed) | CLI |
 | [Autotorrent2](https://github.com/JohnDoee/autotorrent2) | CLI |
 
-### Add Torrent
-
-| Name |
-|------|
-| [PT Plugin Plus](https://github.com/ronggang/PT-Plugin-Plus) ![chinese] |
-| [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) |
-| [Electorrent](https://github.com/tympanix/Electorrent) |
-| [Torrent Control](https://github.com/Mika-/torrent-control) |
 
 ### Auto Remove
 
@@ -332,6 +328,12 @@ PRs are very welcome!
 | [PyroCore](https://github.com/pyroscope/pyrocore) |
 | [anacrolix/torrent](https://github.com/anacrolix/torrent) |
 
+## IRC
+
+| Name | Description |
+|------|-------------|
+| [Irssi](https://github.com/irssi/irssi) | IRC Client, TUI |
+| [Thelounge](https://github.com/thelounge/thelounge) | IRC Client, WEB |
 
 ## Homelab
 
