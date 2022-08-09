@@ -297,7 +297,7 @@ PRs are very welcome!
 | [RedCurry](https://redacted.ch/forums.php?action=viewthread&threadid=45310&postid=904390#post904390) | CLI, RED/OPS/NWCD/DIC  |
 | [smoked-salmon](https://github.com/ligh7s/smoked-salmon) | CLI, RED |
 
-### Upload Helpers
+### Upload Assistant
 
 | Name | Description |
 |------|-------------|
@@ -305,6 +305,7 @@ PRs are very welcome!
 | [Image Host Helper](https://greasyfork.org/en/scripts/401743-image-host-helper) |
 | [RED/OPS Upload Assistant](https://greasyfork.org/en/scripts/389583-red-ops-upload-assistant) |
 | [upsies](https://github.com/plotski/upsies) | Metainfo, Screenshot, Torrent |
+| [SmartHash](https://github.com/spiritualized/smarthash) | CLI, TorrentFile, Screenshot, Mediainfo |
 
 ## Scripts for Seedbox
 
