@@ -306,6 +306,7 @@ PRs are very welcome!
 | [RED/OPS Upload Assistant](https://greasyfork.org/en/scripts/389583-red-ops-upload-assistant) |
 | [upsies](https://github.com/plotski/upsies) | Metainfo, Screenshot, Torrent |
 | [SmartHash](https://github.com/spiritualized/smarthash) | CLI, TorrentFile, Screenshot, Mediainfo |
+| [PT-Factory](https://github.com/Tohrusky/PT-Factory) ![chinese] | CLI, Mediainfo, Screenshot, Description |
 
 ## Scripts for Seedbox
 
