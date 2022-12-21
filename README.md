@@ -329,6 +329,7 @@ PRs are very welcome!
 | [bdinfo](https://github.com/UniqProject/BDInfo) |
 | [PyroCore](https://github.com/pyroscope/pyrocore) |
 | [anacrolix/torrent](https://github.com/anacrolix/torrent) |
+| [PTMuxer](https://github.com/TMD20/PTMuxer) | create remux |
 
 ## IRC
 
