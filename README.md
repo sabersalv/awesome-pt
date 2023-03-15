@@ -294,7 +294,7 @@ PRs are very welcome!
 | [PTP Uploader](https://github.com/bobbintb/PtpUploader) | PTP |
 | [AB Fetcher](https://github.com/anniemaybytes/fetcher) | AB |
 | [GazelleSync](https://github.com/soleil0-0/GazelleSync) | RED/OPS/NWCD/DIC  |
-| [RedCurry](https://redacted.ch/forums.php?action=viewthread&threadid=45310&postid=904390#post904390) | CLI, RED/OPS/NWCD/DIC  |
+| [RedCurry](https://redacted.ch/forums.php?action=viewthread&threadid=45310&postid=904390#post904390) | CLI, RED/OPS/NWCD/DIC/SM  |
 | [smoked-salmon](https://github.com/ligh7s/smoked-salmon) | CLI, RED |
 
 ### Upload Assistant
