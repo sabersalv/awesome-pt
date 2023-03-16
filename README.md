@@ -290,11 +290,11 @@ PRs are very welcome!
 | [Alexandria](https://github.com/pthcode/alexandria) | Ebook |
 | [TJUPT Anime Autoseed](https://github.com/tongyifan/TJUPT-Anime-Autoseed) | TJUP |
 | [GGN2PTer](https://github.com/scatking/ggn2pter) | GGN -> PTer |
-| [JPS2SM](https://git.sugoimusic.me/Sugoimusic/jps2sm) | JPS -> SM |
+| [JPS2SM](https://github.com/damonjavert/jps2sm) | JPS -> SM |
 | [PTP Uploader](https://github.com/bobbintb/PtpUploader) | PTP |
 | [AB Fetcher](https://github.com/anniemaybytes/fetcher) | AB |
 | [GazelleSync](https://github.com/soleil0-0/GazelleSync) | RED/OPS/NWCD/DIC  |
-| [RedCurry](https://redacted.ch/forums.php?action=viewthread&threadid=45310&postid=904390#post904390) | CLI, RED/OPS/NWCD/DIC  |
+| [RedCurry](https://redacted.ch/forums.php?action=viewthread&threadid=45310&postid=904390#post904390) | CLI, RED/OPS/NWCD/DIC/SM  |
 | [smoked-salmon](https://github.com/ligh7s/smoked-salmon) | CLI, RED |
 
 ### Upload Assistant
