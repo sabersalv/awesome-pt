@@ -150,7 +150,7 @@ PRs are very welcome!
 | [Prowlarr](https://github.com/Prowlarr/Prowlarr) | Aggregate Indexer |
 | [Cardigann](https://github.com/cardigann/cardigann) | Aggregate Indexer |
 | [PT Sign-in](https://github.com/lhllhx/PT_signin) ![chinese] |
-| [Vertex](https://lswl.in/2022/03/17/vertex-docs/) ![chinese] |
+| [Vertex](https://github.com/vertex-app/vertex) ![chinese] |
 | [PT小助手](https://hub.docker.com/r/crazyq/pt_helper) ![chinese] |
 
 ## Movie & TV
