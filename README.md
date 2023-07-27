@@ -112,6 +112,8 @@ PRs are very welcome!
 
 ### Cross Seed Helpers
 
+- [Top 1000 torrents for seeding](http://pt.zwhid.online/top1000): ![chinese]
+
 | Name | Interface | Supported BT Clients |
 |------|-----------|----------------------|
 | [IYUU Plus](https://github.com/ledccn/IYUUPlus) ![chinese] | Web | ![transmission] ![qbittorrent] |
