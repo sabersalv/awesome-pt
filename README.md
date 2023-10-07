@@ -309,6 +309,7 @@ PRs are very welcome!
 | [upsies](https://github.com/plotski/upsies) | Metainfo, Screenshot, Torrent |
 | [SmartHash](https://github.com/spiritualized/smarthash) | CLI, TorrentFile, Screenshot, Mediainfo |
 | [PT-Factory](https://github.com/Tohrusky/PT-Factory) ![chinese] | CLI, Mediainfo, Screenshot, Description |
+| [CRT Assistant](https://gitlab.com/starshiners/crtassistant) | CLI, TorrentFile, Screenshot, Description |
 
 ## Scripts for Seedbox
 
